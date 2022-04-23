@@ -1,1087 +1,225 @@
-,u,v,Food id,Substitution id,predictions,label_pred,label_true,check
-0,2498,2382,http://idea.rpi.edu/heals/kb/usda#09442,http://idea.rpi.edu/heals/kb/usda#09251,0.0026030752,0,0.0,0.0
-1,2347,2180,http://idea.rpi.edu/heals/kb/usda#09206,http://idea.rpi.edu/heals/kb/usda#09002,1.880698e-08,0,0.0,0.0
-2,2297,2349,http://idea.rpi.edu/heals/kb/usda#09130,http://idea.rpi.edu/heals/kb/usda#09209,0.08088056,0,0.0,0.0
-3,2442,2383,http://idea.rpi.edu/heals/kb/usda#09316,http://idea.rpi.edu/heals/kb/usda#09252,0.02959103,0,0.0,0.0
-4,2267,2383,http://idea.rpi.edu/heals/kb/usda#09096,http://idea.rpi.edu/heals/kb/usda#09252,0.02959103,0,0.0,0.0
-5,2222,2372,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#09240,0.0005988012,0,0.0,0.0
-6,2256,2251,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#09079,9.03188e-05,0,0.0,0.0
-7,2256,2480,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#09421,0.0011236233,0,0.0,0.0
-8,2429,2480,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#09421,0.011689109,0,0.0,0.0
-9,2222,2370,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#09238,0.0005988012,0,0.0,0.0
-10,2222,2461,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#09370,0.0005988012,0,0.0,0.0
-11,2251,2321,http://idea.rpi.edu/heals/kb/usda#09079,http://idea.rpi.edu/heals/kb/usda#09163,4.3847117e-09,0,0.0,0.0
-12,643,640,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#04042,0.061480198,0,0.0,0.0
-13,645,640,http://idea.rpi.edu/heals/kb/usda#04058,http://idea.rpi.edu/heals/kb/usda#04042,0.061480198,0,0.0,0.0
-14,639,661,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#04502,0.1697335,0,0.0,0.0
-15,673,639,http://idea.rpi.edu/heals/kb/usda#04529,http://idea.rpi.edu/heals/kb/usda#04038,0.003186748,0,0.0,0.0
-16,1653,1659,http://idea.rpi.edu/heals/kb/usda#07058,http://idea.rpi.edu/heals/kb/usda#07064,0.08088056,0,0.0,0.0
-17,1621,1815,http://idea.rpi.edu/heals/kb/usda#07022,http://idea.rpi.edu/heals/kb/usda#07962,0.08088056,0,0.0,0.0
-18,3164,4871,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#16032,0.07750462,0,0.0,0.0
-19,3164,2965,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#11052,0.07750462,0,0.0,0.0
-20,2949,2964,http://idea.rpi.edu/heals/kb/usda#11031,http://idea.rpi.edu/heals/kb/usda#11050,0.08088056,0,0.0,0.0
-21,3691,3438,http://idea.rpi.edu/heals/kb/usda#11955,http://idea.rpi.edu/heals/kb/usda#11693,0.08088056,0,0.0,0.0
-22,643,2,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#01003,0.20602512,0,0.0,0.0
-23,643,670,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#04518,0.20602512,0,0.0,0.0
-24,701,770,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#04669,0.0004248372,0,0.0,0.0
-25,691,770,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#04669,0.00045991357,0,0.0,0.0
-26,725,701,http://idea.rpi.edu/heals/kb/usda#04615,http://idea.rpi.edu/heals/kb/usda#04582,2.2670902e-06,0,0.0,0.0
-27,691,701,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#04582,8.62332e-06,0,0.0,0.0
-28,701,618,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#04002,0.0004248372,0,0.0,0.0
-29,691,618,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#04002,0.00045991357,0,0.0,0.0
-30,642,704,http://idea.rpi.edu/heals/kb/usda#04047,http://idea.rpi.edu/heals/kb/usda#04585,5.350564e-07,0,0.0,0.0
-31,670,725,http://idea.rpi.edu/heals/kb/usda#04518,http://idea.rpi.edu/heals/kb/usda#04615,0.08088056,0,0.0,0.0
-32,3,18,http://idea.rpi.edu/heals/kb/usda#01004,http://idea.rpi.edu/heals/kb/usda#01019,6.646183e-05,0,0.0,0.0
-33,139,18,http://idea.rpi.edu/heals/kb/usda#01156,http://idea.rpi.edu/heals/kb/usda#01019,0.00039103345,0,0.0,0.0
-34,2314,2315,http://idea.rpi.edu/heals/kb/usda#09152,http://idea.rpi.edu/heals/kb/usda#09153,9.0732545e-05,0,0.0,0.0
-35,2428,2422,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#09292,0.07828916,0,0.0,0.0
-36,2256,2428,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#09298,9.03188e-05,0,0.0,0.0
-37,2428,2421,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#09291,0.07828916,0,0.0,0.0
-38,2428,2390,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#09259,0.07828916,0,0.0,0.0
-39,3763,3769,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#12078,0.20602512,0,0.0,0.0
-40,3813,3823,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#12163,0.04924987,0,0.0,0.0
-41,3805,3823,http://idea.rpi.edu/heals/kb/usda#12135,http://idea.rpi.edu/heals/kb/usda#12163,0.04924987,0,0.0,0.0
-42,3813,3844,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#12220,0.15695679,0,0.0,0.0
-43,3185,3141,http://idea.rpi.edu/heals/kb/usda#11333,http://idea.rpi.edu/heals/kb/usda#11278,0.074440576,0,0.0,0.0
-44,1606,3101,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#11238,0.15695679,0,0.0,0.0
-45,3763,3746,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#12023,0.20602512,0,0.0,0.0
-46,3809,3813,http://idea.rpi.edu/heals/kb/usda#12142,http://idea.rpi.edu/heals/kb/usda#12147,0.08088056,0,0.0,0.0
-47,3763,3753,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#12037,0.20602512,0,0.0,0.0
-48,3001,2984,http://idea.rpi.edu/heals/kb/usda#11109,http://idea.rpi.edu/heals/kb/usda#11090,0.0023868277,0,0.0,0.0
-49,3003,2984,http://idea.rpi.edu/heals/kb/usda#11112,http://idea.rpi.edu/heals/kb/usda#11090,0.0025087902,0,0.0,0.0
-50,2984,3133,http://idea.rpi.edu/heals/kb/usda#11090,http://idea.rpi.edu/heals/kb/usda#11270,0.00095855986,0,0.0,0.0
-51,3007,3133,http://idea.rpi.edu/heals/kb/usda#11116,http://idea.rpi.edu/heals/kb/usda#11270,0.0005070026,0,0.0,0.0
-52,2992,3007,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#11116,0.00805238,0,0.0,0.0
-53,2992,3003,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#11112,0.00805238,0,0.0,0.0
-54,3069,2992,http://idea.rpi.edu/heals/kb/usda#11203,http://idea.rpi.edu/heals/kb/usda#11098,0.08088056,0,0.0,0.0
-55,57,81,http://idea.rpi.edu/heals/kb/usda#01059,http://idea.rpi.edu/heals/kb/usda#01088,0.08088056,0,0.0,0.0
-56,49,88,http://idea.rpi.edu/heals/kb/usda#01050,http://idea.rpi.edu/heals/kb/usda#01095,0.08088056,0,0.0,0.0
-57,84,107,http://idea.rpi.edu/heals/kb/usda#01091,http://idea.rpi.edu/heals/kb/usda#01118,2.5350726e-05,0,0.0,0.0
-58,2220,2324,http://idea.rpi.edu/heals/kb/usda#09042,http://idea.rpi.edu/heals/kb/usda#09167,0.08088056,0,0.0,0.0
-59,2932,3013,http://idea.rpi.edu/heals/kb/usda#11011,http://idea.rpi.edu/heals/kb/usda#11124,0.08088056,0,0.0,0.0
-60,647,0,http://idea.rpi.edu/heals/kb/usda#04073,http://idea.rpi.edu/heals/kb/usda#01001,0.0014824485,0,0.0,0.0
-61,770,0,http://idea.rpi.edu/heals/kb/usda#04669,http://idea.rpi.edu/heals/kb/usda#01001,0.019175958,0,0.0,0.0
-62,19,34,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#01035,0.24027996,0,0.0,0.0
-63,39,8,http://idea.rpi.edu/heals/kb/usda#01040,http://idea.rpi.edu/heals/kb/usda#01009,1.1961297e-10,0,0.0,0.0
-64,11,35,http://idea.rpi.edu/heals/kb/usda#01012,http://idea.rpi.edu/heals/kb/usda#01036,0.0048022494,0,0.0,0.0
-65,2324,2442,http://idea.rpi.edu/heals/kb/usda#09167,http://idea.rpi.edu/heals/kb/usda#09316,0.08088056,0,0.0,0.0
-66,8,42,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#01043,1.144661e-06,0,0.0,0.0
-67,19,28,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#01029,0.24027996,0,0.0,0.0
-68,18,29,http://idea.rpi.edu/heals/kb/usda#01019,http://idea.rpi.edu/heals/kb/usda#01030,3.2084235e-10,0,0.0,0.0
-69,8,29,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#01030,4.4114837e-11,0,0.0,0.0
-70,16,139,http://idea.rpi.edu/heals/kb/usda#01017,http://idea.rpi.edu/heals/kb/usda#01156,8.2641445e-06,0,0.0,0.0
-71,10,145,http://idea.rpi.edu/heals/kb/usda#01011,http://idea.rpi.edu/heals/kb/usda#01165,0.08088056,0,0.0,0.0
-72,19,23,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#01024,0.24027996,0,0.0,0.0
-73,3146,3037,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#11156,0.20602512,0,0.0,0.0
-74,3037,3156,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#11292,0.20602512,0,0.0,0.0
-75,257,263,http://idea.rpi.edu/heals/kb/usda#02020,http://idea.rpi.edu/heals/kb/usda#02026,0.00080616504,0,0.0,0.0
-76,249,263,http://idea.rpi.edu/heals/kb/usda#02012,http://idea.rpi.edu/heals/kb/usda#02026,0.00020038741,0,0.0,0.0
-77,3146,3110,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#11246,0.20602512,0,0.0,0.0
-78,639,673,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#04529,0.1697335,0,0.0,0.0
-79,1606,1825,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#07972,0.15695679,0,0.0,0.0
-80,4907,4895,http://idea.rpi.edu/heals/kb/usda#16069,http://idea.rpi.edu/heals/kb/usda#16056,0.04924987,0,0.0,0.0
-81,4965,4895,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#16056,0.04924987,0,0.0,0.0
-82,3357,2976,http://idea.rpi.edu/heals/kb/usda#11564,http://idea.rpi.edu/heals/kb/usda#11080,0.08088056,0,0.0,0.0
-83,3019,3162,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#11298,0.15695679,0,0.0,0.0
-84,6619,3251,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#11413,0.01072601,0,0.0,0.0
-85,6554,3251,http://idea.rpi.edu/heals/kb/usda#20011,http://idea.rpi.edu/heals/kb/usda#11413,0.010145734,0,0.0,0.0
-86,6669,3251,http://idea.rpi.edu/heals/kb/usda#20140,http://idea.rpi.edu/heals/kb/usda#11413,0.01072601,0,0.0,0.0
-87,2383,2186,http://idea.rpi.edu/heals/kb/usda#09252,http://idea.rpi.edu/heals/kb/usda#09008,0.08088056,0,0.0,0.0
-88,275,280,http://idea.rpi.edu/heals/kb/usda#02038,http://idea.rpi.edu/heals/kb/usda#02044,0.07879724,0,0.0,0.0
-89,2313,2362,http://idea.rpi.edu/heals/kb/usda#09150,http://idea.rpi.edu/heals/kb/usda#09226,0.08088056,0,0.0,0.0
-90,81,227,http://idea.rpi.edu/heals/kb/usda#01088,http://idea.rpi.edu/heals/kb/usda#01275,0.08088056,0,0.0,0.0
-91,3796,3743,http://idea.rpi.edu/heals/kb/usda#12120,http://idea.rpi.edu/heals/kb/usda#12016,0.08088056,0,0.0,0.0
-92,3298,3072,http://idea.rpi.edu/heals/kb/usda#11477,http://idea.rpi.edu/heals/kb/usda#11206,0.08088056,0,0.0,0.0
-93,19,197,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#01229,0.24027996,0,0.0,0.0
-94,203,209,http://idea.rpi.edu/heals/kb/usda#01238,http://idea.rpi.edu/heals/kb/usda#01244,0.0011972608,0,0.0,0.0
-95,2429,2343,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#09201,0.20602512,0,0.0,0.0
-96,3346,3626,http://idea.rpi.edu/heals/kb/usda#11540,http://idea.rpi.edu/heals/kb/usda#11886,0.08088056,0,0.0,0.0
-97,1821,1759,http://idea.rpi.edu/heals/kb/usda#07968,http://idea.rpi.edu/heals/kb/usda#07900,0.08088056,0,0.0,0.0
-98,3168,3077,http://idea.rpi.edu/heals/kb/usda#11304,http://idea.rpi.edu/heals/kb/usda#11211,0.019498844,0,0.0,0.0
-99,2399,2311,http://idea.rpi.edu/heals/kb/usda#09268,http://idea.rpi.edu/heals/kb/usda#09148,0.08088056,0,0.0,0.0
-100,2375,2262,http://idea.rpi.edu/heals/kb/usda#09243,http://idea.rpi.edu/heals/kb/usda#09091,0.08088056,0,0.0,0.0
-101,2428,2375,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#09243,0.07828916,0,0.0,0.0
-102,3275,3427,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#11669,0.04924987,0,0.0,0.0
-103,3273,3427,http://idea.rpi.edu/heals/kb/usda#11442,http://idea.rpi.edu/heals/kb/usda#11669,0.04924987,0,0.0,0.0
-104,3275,3274,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#11444,0.15695679,0,0.0,0.0
-105,4645,4602,http://idea.rpi.edu/heals/kb/usda#15065,http://idea.rpi.edu/heals/kb/usda#15022,0.08088056,0,0.0,0.0
-106,4613,4659,http://idea.rpi.edu/heals/kb/usda#15033,http://idea.rpi.edu/heals/kb/usda#15079,0.08088056,0,0.0,0.0
-107,4611,4625,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#15045,0.15695679,0,0.0,0.0
-108,6612,6599,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#20063,8.093074e-07,0,0.0,0.0
-109,6598,6608,http://idea.rpi.edu/heals/kb/usda#20062,http://idea.rpi.edu/heals/kb/usda#20072,3.0588706e-07,0,0.0,0.0
-110,6612,6548,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#20004,8.093074e-07,0,0.0,0.0
-111,6548,6611,http://idea.rpi.edu/heals/kb/usda#20004,http://idea.rpi.edu/heals/kb/usda#20075,0.08088056,0,0.0,0.0
-112,6618,6679,http://idea.rpi.edu/heals/kb/usda#20083,http://idea.rpi.edu/heals/kb/usda#20316,0.08088056,0,0.0,0.0
-113,6619,6602,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#20066,0.15695679,0,0.0,0.0
-114,6555,6572,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#20031,0.15695679,0,0.0,0.0
-115,6555,6556,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#20013,0.15695679,0,0.0,0.0
-116,4584,4684,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#15104,0.15695679,0,0.0,0.0
-117,4584,4653,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#15073,0.15695679,0,0.0,0.0
-118,4690,4683,http://idea.rpi.edu/heals/kb/usda#15110,http://idea.rpi.edu/heals/kb/usda#15103,0.08088056,0,0.0,0.0
-119,4611,4661,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#15081,0.15695679,0,0.0,0.0
-120,4706,4583,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#15003,0.15695679,0,0.0,0.0
-121,4706,4588,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#15008,0.15695679,0,0.0,0.0
-122,3321,3489,http://idea.rpi.edu/heals/kb/usda#11503,http://idea.rpi.edu/heals/kb/usda#11749,0.08088056,0,0.0,0.0
-123,6557,6559,http://idea.rpi.edu/heals/kb/usda#20014,http://idea.rpi.edu/heals/kb/usda#20016,0.005734641,0,0.0,0.0
-124,2924,3393,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#11616,0.15695679,0,0.0,0.0
-125,3406,3155,http://idea.rpi.edu/heals/kb/usda#11640,http://idea.rpi.edu/heals/kb/usda#11291,0.061480198,0,0.0,0.0
-126,3146,3155,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#11291,0.061480198,0,0.0,0.0
-127,3037,3035,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#11152,0.20602512,0,0.0,0.0
-128,3037,3392,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#11615,0.20602512,0,0.0,0.0
-129,4751,4743,http://idea.rpi.edu/heals/kb/usda#15175,http://idea.rpi.edu/heals/kb/usda#15167,0.08088056,0,0.0,0.0
-130,6603,6605,http://idea.rpi.edu/heals/kb/usda#20067,http://idea.rpi.edu/heals/kb/usda#20069,0.08088056,0,0.0,0.0
-131,3029,3285,http://idea.rpi.edu/heals/kb/usda#11147,http://idea.rpi.edu/heals/kb/usda#11457,0.02959103,0,0.0,0.0
-132,3695,3285,http://idea.rpi.edu/heals/kb/usda#11959,http://idea.rpi.edu/heals/kb/usda#11457,0.02959103,0,0.0,0.0
-133,2924,3079,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#11213,0.15695679,0,0.0,0.0
-134,3390,3382,http://idea.rpi.edu/heals/kb/usda#11613,http://idea.rpi.edu/heals/kb/usda#11597,0.08088056,0,0.0,0.0
-135,3079,2924,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#11003,0.15695679,0,0.0,0.0
-136,6569,6593,http://idea.rpi.edu/heals/kb/usda#20028,http://idea.rpi.edu/heals/kb/usda#20054,0.08088056,0,0.0,0.0
-137,6576,6646,http://idea.rpi.edu/heals/kb/usda#20035,http://idea.rpi.edu/heals/kb/usda#20114,0.08088056,0,0.0,0.0
-138,3079,3137,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#11274,0.15695679,0,0.0,0.0
-139,4732,4747,http://idea.rpi.edu/heals/kb/usda#15155,http://idea.rpi.edu/heals/kb/usda#15171,0.08088056,0,0.0,0.0
-140,3384,3119,http://idea.rpi.edu/heals/kb/usda#11601,http://idea.rpi.edu/heals/kb/usda#11254,0.08088056,0,0.0,0.0
-141,4722,4716,http://idea.rpi.edu/heals/kb/usda#15145,http://idea.rpi.edu/heals/kb/usda#15139,0.08088056,0,0.0,0.0
-142,3674,1281,http://idea.rpi.edu/heals/kb/usda#11935,http://idea.rpi.edu/heals/kb/usda#06150,9.3929244e-05,0,0.0,0.0
-143,1286,3691,http://idea.rpi.edu/heals/kb/usda#06164,http://idea.rpi.edu/heals/kb/usda#11955,0.0046979487,0,0.0,0.0
-144,4871,4853,http://idea.rpi.edu/heals/kb/usda#16032,http://idea.rpi.edu/heals/kb/usda#16014,8.770859e-05,0,0.0,0.0
-145,4961,4962,http://idea.rpi.edu/heals/kb/usda#16124,http://idea.rpi.edu/heals/kb/usda#16125,0.08088056,0,0.0,0.0
-146,4965,4968,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#16132,0.15695679,0,0.0,0.0
-147,4590,4695,http://idea.rpi.edu/heals/kb/usda#15010,http://idea.rpi.edu/heals/kb/usda#15115,0.08088056,0,0.0,0.0
-148,4695,4654,http://idea.rpi.edu/heals/kb/usda#15115,http://idea.rpi.edu/heals/kb/usda#15074,0.08088056,0,0.0,0.0
-149,3903,1691,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#07209,0.00017008052,0,0.0,0.0
-150,1691,1041,http://idea.rpi.edu/heals/kb/usda#07209,http://idea.rpi.edu/heals/kb/usda#05332,0.08088056,0,0.0,0.0
-151,3903,1104,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#05665,0.00017008052,0,0.0,0.0
-152,131,112,http://idea.rpi.edu/heals/kb/usda#01144,http://idea.rpi.edu/heals/kb/usda#01123,0.0011338202,0,0.0,0.0
-153,5239,5215,http://idea.rpi.edu/heals/kb/usda#17035,http://idea.rpi.edu/heals/kb/usda#17011,0.08088056,0,0.0,0.0
-154,3115,3011,http://idea.rpi.edu/heals/kb/usda#11250,http://idea.rpi.edu/heals/kb/usda#11122,0.08088056,0,0.0,0.0
-155,3019,3384,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#11601,0.15695679,0,0.0,0.0
-156,264,240,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#02003,0.003082527,0,0.0,0.0
-157,264,253,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#02016,0.0023544433,0,0.0,0.0
-158,262,253,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#02016,0.0014704032,0,0.0,0.0
-159,280,264,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#02027,0.000112453934,0,0.0,0.0
-160,260,264,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#02027,0.009873313,0,0.0,0.0
-161,292,264,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#02027,0.009873313,0,0.0,0.0
-162,292,285,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#02049,0.15695679,0,0.0,0.0
-163,3403,268,http://idea.rpi.edu/heals/kb/usda#11632,http://idea.rpi.edu/heals/kb/usda#02031,0.0505292,0,0.0,0.0
-164,246,268,http://idea.rpi.edu/heals/kb/usda#02009,http://idea.rpi.edu/heals/kb/usda#02031,0.000669523,0,0.0,0.0
-165,4853,4978,http://idea.rpi.edu/heals/kb/usda#16014,http://idea.rpi.edu/heals/kb/usda#16146,0.08088056,0,0.0,0.0
-166,247,258,http://idea.rpi.edu/heals/kb/usda#02010,http://idea.rpi.edu/heals/kb/usda#02021,0.04979691,0,0.0,0.0
-167,262,247,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#02010,0.04544298,0,0.0,0.0
-168,262,272,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#02035,0.04544298,0,0.0,0.0
-169,285,238,http://idea.rpi.edu/heals/kb/usda#02049,http://idea.rpi.edu/heals/kb/usda#02001,0.08088056,0,0.0,0.0
-170,280,281,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#02045,3.276623e-07,0,0.0,0.0
-171,260,277,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#02041,0.15695679,0,0.0,0.0
-172,54,51,http://idea.rpi.edu/heals/kb/usda#01056,http://idea.rpi.edu/heals/kb/usda#01053,1.1470926e-06,0,0.0,0.0
-173,1584,1292,http://idea.rpi.edu/heals/kb/usda#06981,http://idea.rpi.edu/heals/kb/usda#06170,0.08088056,0,0.0,0.0
-174,1629,1799,http://idea.rpi.edu/heals/kb/usda#07030,http://idea.rpi.edu/heals/kb/usda#07943,0.08088056,0,0.0,0.0
-175,2429,2210,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#09032,0.20602512,0,0.0,0.0
-176,259,248,http://idea.rpi.edu/heals/kb/usda#02022,http://idea.rpi.edu/heals/kb/usda#02011,0.07879724,0,0.0,0.0
-177,1224,1202,http://idea.rpi.edu/heals/kb/usda#06043,http://idea.rpi.edu/heals/kb/usda#06016,0.08088056,0,0.0,0.0
-178,2296,2199,http://idea.rpi.edu/heals/kb/usda#09129,http://idea.rpi.edu/heals/kb/usda#09021,0.08088056,0,0.0,0.0
-179,2736,1605,http://idea.rpi.edu/heals/kb/usda#10219,http://idea.rpi.edu/heals/kb/usda#07004,0.0008085296,0,0.0,0.0
-180,1296,1259,http://idea.rpi.edu/heals/kb/usda#06176,http://idea.rpi.edu/heals/kb/usda#06112,0.007813057,0,0.0,0.0
-181,2498,1526,http://idea.rpi.edu/heals/kb/usda#09442,http://idea.rpi.edu/heals/kb/usda#06604,0.8957558,1,1.0,0.0
-182,2498,688,http://idea.rpi.edu/heals/kb/usda#09442,http://idea.rpi.edu/heals/kb/usda#04550,0.8957558,1,1.0,0.0
-183,2498,4457,http://idea.rpi.edu/heals/kb/usda#09442,http://idea.rpi.edu/heals/kb/usda#14347,0.8957558,1,1.0,0.0
-184,2498,1164,http://idea.rpi.edu/heals/kb/usda#09442,http://idea.rpi.edu/heals/kb/usda#05725,0.8957558,1,1.0,0.0
-185,2498,2389,http://idea.rpi.edu/heals/kb/usda#09442,http://idea.rpi.edu/heals/kb/usda#09258,0.8957558,1,1.0,0.0
-186,2347,3093,http://idea.rpi.edu/heals/kb/usda#09206,http://idea.rpi.edu/heals/kb/usda#11230,0.9155325,1,1.0,0.0
-187,2347,2632,http://idea.rpi.edu/heals/kb/usda#09206,http://idea.rpi.edu/heals/kb/usda#10098,0.9155325,1,1.0,0.0
-188,2347,3083,http://idea.rpi.edu/heals/kb/usda#09206,http://idea.rpi.edu/heals/kb/usda#11219,0.9155325,1,1.0,0.0
-189,2347,637,http://idea.rpi.edu/heals/kb/usda#09206,http://idea.rpi.edu/heals/kb/usda#04034,0.9155325,1,1.0,0.0
-190,2347,2082,http://idea.rpi.edu/heals/kb/usda#09206,http://idea.rpi.edu/heals/kb/usda#08593,0.9155325,1,1.0,0.0
-191,2297,3996,http://idea.rpi.edu/heals/kb/usda#09130,http://idea.rpi.edu/heals/kb/usda#13386,0.531994,1,1.0,0.0
-192,2297,3116,http://idea.rpi.edu/heals/kb/usda#09130,http://idea.rpi.edu/heals/kb/usda#11251,0.531994,1,1.0,0.0
-193,2297,4400,http://idea.rpi.edu/heals/kb/usda#09130,http://idea.rpi.edu/heals/kb/usda#14181,0.531994,1,1.0,0.0
-194,2297,3128,http://idea.rpi.edu/heals/kb/usda#09130,http://idea.rpi.edu/heals/kb/usda#11265,0.531994,1,1.0,0.0
-195,2297,6178,http://idea.rpi.edu/heals/kb/usda#09130,http://idea.rpi.edu/heals/kb/usda#19065,0.531994,1,1.0,0.0
-196,2442,5478,http://idea.rpi.edu/heals/kb/usda#09316,http://idea.rpi.edu/heals/kb/usda#17275,0.531994,1,1.0,0.0
-197,2442,4329,http://idea.rpi.edu/heals/kb/usda#09316,http://idea.rpi.edu/heals/kb/usda#14070,0.531994,1,1.0,0.0
-198,2442,1695,http://idea.rpi.edu/heals/kb/usda#09316,http://idea.rpi.edu/heals/kb/usda#07213,0.531994,1,1.0,0.0
-199,2442,4648,http://idea.rpi.edu/heals/kb/usda#09316,http://idea.rpi.edu/heals/kb/usda#15068,0.531994,1,1.0,0.0
-200,2442,2943,http://idea.rpi.edu/heals/kb/usda#09316,http://idea.rpi.edu/heals/kb/usda#11026,0.531994,1,1.0,0.0
-201,2267,3756,http://idea.rpi.edu/heals/kb/usda#09096,http://idea.rpi.edu/heals/kb/usda#12040,0.531994,1,1.0,0.0
-202,2267,2222,http://idea.rpi.edu/heals/kb/usda#09096,http://idea.rpi.edu/heals/kb/usda#09044,0.531994,1,1.0,0.0
-203,2267,1336,http://idea.rpi.edu/heals/kb/usda#09096,http://idea.rpi.edu/heals/kb/usda#06235,0.531994,1,1.0,0.0
-204,2267,3286,http://idea.rpi.edu/heals/kb/usda#09096,http://idea.rpi.edu/heals/kb/usda#11458,0.531994,1,1.0,0.0
-205,2267,1644,http://idea.rpi.edu/heals/kb/usda#09096,http://idea.rpi.edu/heals/kb/usda#07046,0.531994,1,1.0,0.0
-206,2222,5220,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#17016,0.85048336,1,1.0,0.0
-207,2222,4638,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#15058,0.85048336,1,1.0,0.0
-208,2222,6247,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#19140,0.85048336,1,1.0,0.0
-209,2222,2168,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#08698,0.85048336,1,1.0,0.0
-210,2222,373,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#03120,0.85048336,1,1.0,0.0
-211,2256,6595,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#20058,0.93254936,1,1.0,0.0
-212,2256,6447,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#19421,0.93254936,1,1.0,0.0
-213,2256,5744,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#18144,0.93254936,1,1.0,0.0
-214,2256,6466,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#19704,0.93254936,1,1.0,0.0
-215,2256,2709,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#10193,0.93254936,1,1.0,0.0
-216,2256,3687,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#11951,0.93254936,1,1.0,0.0
-217,2256,3134,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#11271,0.93254936,1,1.0,0.0
-218,2256,2306,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#09143,0.93254936,1,1.0,0.0
-219,2256,373,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#03120,0.93254936,1,1.0,0.0
-220,2256,584,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#03954,0.93254936,1,1.0,0.0
-221,2429,6231,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#19122,0.531994,1,1.0,0.0
-222,2429,6604,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#20068,0.531994,1,1.0,0.0
-223,2429,3500,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#11760,0.531994,1,1.0,0.0
-224,2429,5506,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#17303,0.531994,1,1.0,0.0
-225,2429,5638,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#17435,0.531994,1,1.0,0.0
-226,2222,1645,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#07050,0.85048336,1,1.0,0.0
-227,2222,2364,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#09229,0.85048336,1,1.0,0.0
-228,2222,37,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#01038,0.85048336,1,1.0,0.0
-229,2222,5327,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#17123,0.85048336,1,1.0,0.0
-230,2222,1925,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#08169,0.85048336,1,1.0,0.0
-231,2222,1506,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#06580,0.85048336,1,1.0,0.0
-232,2222,6435,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#19408,0.85048336,1,1.0,0.0
-233,2222,6222,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#19113,0.85048336,1,1.0,0.0
-234,2222,3321,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#11503,0.85048336,1,1.0,0.0
-235,2222,432,http://idea.rpi.edu/heals/kb/usda#09044,http://idea.rpi.edu/heals/kb/usda#03191,0.85048336,1,1.0,0.0
-236,2251,465,http://idea.rpi.edu/heals/kb/usda#09079,http://idea.rpi.edu/heals/kb/usda#03238,0.9145412,1,1.0,0.0
-237,2251,6357,http://idea.rpi.edu/heals/kb/usda#09079,http://idea.rpi.edu/heals/kb/usda#19281,0.9145412,1,1.0,0.0
-238,2251,5124,http://idea.rpi.edu/heals/kb/usda#09079,http://idea.rpi.edu/heals/kb/usda#16432,0.9145412,1,1.0,0.0
-239,2251,5067,http://idea.rpi.edu/heals/kb/usda#09079,http://idea.rpi.edu/heals/kb/usda#16328,0.9145412,1,1.0,0.0
-240,2251,3811,http://idea.rpi.edu/heals/kb/usda#09079,http://idea.rpi.edu/heals/kb/usda#12144,0.9145412,1,1.0,0.0
-241,643,1927,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#08173,0.531994,1,1.0,0.0
-242,643,3172,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#11310,0.531994,1,1.0,0.0
-243,643,2004,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#08393,0.531994,1,1.0,0.0
-244,643,5167,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#16554,0.531994,1,1.0,0.0
-245,643,238,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#02001,0.08088056,0,1.0,-1.0
-246,645,2814,http://idea.rpi.edu/heals/kb/usda#04058,http://idea.rpi.edu/heals/kb/usda#10882,0.531994,1,1.0,0.0
-247,645,1575,http://idea.rpi.edu/heals/kb/usda#04058,http://idea.rpi.edu/heals/kb/usda#06969,0.531994,1,1.0,0.0
-248,645,4450,http://idea.rpi.edu/heals/kb/usda#04058,http://idea.rpi.edu/heals/kb/usda#14316,0.531994,1,1.0,0.0
-249,645,4253,http://idea.rpi.edu/heals/kb/usda#04058,http://idea.rpi.edu/heals/kb/usda#13955,0.531994,1,1.0,0.0
-250,645,505,http://idea.rpi.edu/heals/kb/usda#04058,http://idea.rpi.edu/heals/kb/usda#03803,0.531994,1,1.0,0.0
-251,639,1897,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#08113,0.76499885,1,1.0,0.0
-252,639,235,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#01308,0.76499885,1,1.0,0.0
-253,639,2282,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#09112,0.76499885,1,1.0,0.0
-254,639,905,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#05100,0.76499885,1,1.0,0.0
-255,639,4121,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#13812,0.76499885,1,1.0,0.0
-256,673,302,http://idea.rpi.edu/heals/kb/usda#04529,http://idea.rpi.edu/heals/kb/usda#03001,0.84476787,1,1.0,0.0
-257,673,6136,http://idea.rpi.edu/heals/kb/usda#04529,http://idea.rpi.edu/heals/kb/usda#19008,0.84476787,1,1.0,0.0
-258,673,2281,http://idea.rpi.edu/heals/kb/usda#04529,http://idea.rpi.edu/heals/kb/usda#09111,0.84476787,1,1.0,0.0
-259,673,5467,http://idea.rpi.edu/heals/kb/usda#04529,http://idea.rpi.edu/heals/kb/usda#17263,0.84476787,1,1.0,0.0
-260,673,3028,http://idea.rpi.edu/heals/kb/usda#04529,http://idea.rpi.edu/heals/kb/usda#11145,0.84476787,1,1.0,0.0
-261,1653,4646,http://idea.rpi.edu/heals/kb/usda#07058,http://idea.rpi.edu/heals/kb/usda#15066,0.531994,1,1.0,0.0
-262,1653,4855,http://idea.rpi.edu/heals/kb/usda#07058,http://idea.rpi.edu/heals/kb/usda#16016,0.531994,1,1.0,0.0
-263,1653,4116,http://idea.rpi.edu/heals/kb/usda#07058,http://idea.rpi.edu/heals/kb/usda#13807,0.531994,1,1.0,0.0
-264,1653,4772,http://idea.rpi.edu/heals/kb/usda#07058,http://idea.rpi.edu/heals/kb/usda#15196,0.531994,1,1.0,0.0
-265,1653,1028,http://idea.rpi.edu/heals/kb/usda#07058,http://idea.rpi.edu/heals/kb/usda#05311,0.531994,1,1.0,0.0
-266,1621,6351,http://idea.rpi.edu/heals/kb/usda#07022,http://idea.rpi.edu/heals/kb/usda#19271,0.531994,1,1.0,0.0
-267,1621,3821,http://idea.rpi.edu/heals/kb/usda#07022,http://idea.rpi.edu/heals/kb/usda#12158,0.531994,1,1.0,0.0
-268,1621,5653,http://idea.rpi.edu/heals/kb/usda#07022,http://idea.rpi.edu/heals/kb/usda#18014,0.531994,1,1.0,0.0
-269,1621,550,http://idea.rpi.edu/heals/kb/usda#07022,http://idea.rpi.edu/heals/kb/usda#03861,0.531994,1,1.0,0.0
-270,1621,2963,http://idea.rpi.edu/heals/kb/usda#07022,http://idea.rpi.edu/heals/kb/usda#11049,0.531994,1,1.0,0.0
-271,3164,6479,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#19809,0.7957626,1,1.0,0.0
-272,3164,5096,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#16386,0.7957626,1,1.0,0.0
-273,3164,3888,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#1266,0.7957626,1,1.0,0.0
-274,3164,3020,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#11135,0.7957626,1,1.0,0.0
-275,3164,4477,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#14405,0.7957626,1,1.0,0.0
-276,3164,2483,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#09426,0.7957626,1,1.0,0.0
-277,3164,4825,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#15251,0.7957626,1,1.0,0.0
-278,3164,5036,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#16250,0.7957626,1,1.0,0.0
-279,3164,5017,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#16228,0.7957626,1,1.0,0.0
-280,3164,5070,http://idea.rpi.edu/heals/kb/usda#11300,http://idea.rpi.edu/heals/kb/usda#16335,0.7957626,1,1.0,0.0
-281,2949,227,http://idea.rpi.edu/heals/kb/usda#11031,http://idea.rpi.edu/heals/kb/usda#01275,0.08088056,0,1.0,-1.0
-282,2949,2692,http://idea.rpi.edu/heals/kb/usda#11031,http://idea.rpi.edu/heals/kb/usda#10175,0.531994,1,1.0,0.0
-283,2949,2949,http://idea.rpi.edu/heals/kb/usda#11031,http://idea.rpi.edu/heals/kb/usda#11031,0.531994,1,1.0,0.0
-284,2949,3845,http://idea.rpi.edu/heals/kb/usda#11031,http://idea.rpi.edu/heals/kb/usda#1223,0.531994,1,1.0,0.0
-285,2949,5635,http://idea.rpi.edu/heals/kb/usda#11031,http://idea.rpi.edu/heals/kb/usda#17432,0.531994,1,1.0,0.0
-286,3691,2115,http://idea.rpi.edu/heals/kb/usda#11955,http://idea.rpi.edu/heals/kb/usda#08642,0.531994,1,1.0,0.0
-287,3691,1140,http://idea.rpi.edu/heals/kb/usda#11955,http://idea.rpi.edu/heals/kb/usda#05701,0.531994,1,1.0,0.0
-288,3691,4421,http://idea.rpi.edu/heals/kb/usda#11955,http://idea.rpi.edu/heals/kb/usda#14236,0.531994,1,1.0,0.0
-289,3691,6596,http://idea.rpi.edu/heals/kb/usda#11955,http://idea.rpi.edu/heals/kb/usda#20060,0.531994,1,1.0,0.0
-290,3691,6671,http://idea.rpi.edu/heals/kb/usda#11955,http://idea.rpi.edu/heals/kb/usda#20142,0.531994,1,1.0,0.0
-291,643,3656,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#11916,0.531994,1,1.0,0.0
-292,643,3060,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#11192,0.531994,1,1.0,0.0
-293,643,4452,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#14318,0.531994,1,1.0,0.0
-294,643,2186,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#09008,0.08088056,0,1.0,-1.0
-295,643,4721,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#15144,0.531994,1,1.0,0.0
-296,643,6637,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#20105,0.531994,1,1.0,0.0
-297,643,1565,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#06959,0.531994,1,1.0,0.0
-298,643,3821,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#12158,0.531994,1,1.0,0.0
-299,643,2493,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#09436,0.531994,1,1.0,0.0
-300,643,5115,http://idea.rpi.edu/heals/kb/usda#04053,http://idea.rpi.edu/heals/kb/usda#16421,0.531994,1,1.0,0.0
-301,701,2952,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#11037,0.9261175,1,1.0,0.0
-302,701,3047,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#11170,0.9261175,1,1.0,0.0
-303,701,6286,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#19185,0.9261175,1,1.0,0.0
-304,701,6326,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#19234,0.9261175,1,1.0,0.0
-305,701,808,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#05003,0.9261175,1,1.0,0.0
-306,691,5118,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#16424,0.89806855,1,1.0,0.0
-307,691,1330,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#06229,0.89806855,1,1.0,0.0
-308,691,5072,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#16337,0.89806855,1,1.0,0.0
-309,691,5921,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#18351,0.89806855,1,1.0,0.0
-310,691,4010,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#13402,0.89806855,1,1.0,0.0
-311,725,1445,http://idea.rpi.edu/heals/kb/usda#04615,http://idea.rpi.edu/heals/kb/usda#06430,0.87831634,1,1.0,0.0
-312,725,561,http://idea.rpi.edu/heals/kb/usda#04615,http://idea.rpi.edu/heals/kb/usda#03928,0.87831634,1,1.0,0.0
-313,725,1761,http://idea.rpi.edu/heals/kb/usda#04615,http://idea.rpi.edu/heals/kb/usda#07905,0.87831634,1,1.0,0.0
-314,725,4248,http://idea.rpi.edu/heals/kb/usda#04615,http://idea.rpi.edu/heals/kb/usda#13949,0.87831634,1,1.0,0.0
-315,725,5644,http://idea.rpi.edu/heals/kb/usda#04615,http://idea.rpi.edu/heals/kb/usda#18003,0.87831634,1,1.0,0.0
-316,691,3244,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#11406,0.89806855,1,1.0,0.0
-317,691,3828,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#12171,0.89806855,1,1.0,0.0
-318,691,5151,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#16527,0.89806855,1,1.0,0.0
-319,691,6455,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#19437,0.89806855,1,1.0,0.0
-320,691,5555,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#17352,0.89806855,1,1.0,0.0
-321,701,711,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#04592,0.9261175,1,1.0,0.0
-322,701,2816,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#10884,0.9261175,1,1.0,0.0
-323,701,975,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#05172,0.9261175,1,1.0,0.0
-324,701,4427,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#14243,0.9261175,1,1.0,0.0
-325,701,6236,http://idea.rpi.edu/heals/kb/usda#04582,http://idea.rpi.edu/heals/kb/usda#19127,0.9261175,1,1.0,0.0
-326,691,962,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#05157,0.89806855,1,1.0,0.0
-327,691,2514,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#09506,0.89806855,1,1.0,0.0
-328,691,2772,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#1073,0.89806855,1,1.0,0.0
-329,691,4968,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#16132,0.6645283,1,1.0,0.0
-330,691,4138,http://idea.rpi.edu/heals/kb/usda#04556,http://idea.rpi.edu/heals/kb/usda#13829,0.89806855,1,1.0,0.0
-331,642,1756,http://idea.rpi.edu/heals/kb/usda#04047,http://idea.rpi.edu/heals/kb/usda#07277,0.9547754,1,1.0,0.0
-332,642,2360,http://idea.rpi.edu/heals/kb/usda#04047,http://idea.rpi.edu/heals/kb/usda#09221,0.9547754,1,1.0,0.0
-333,642,197,http://idea.rpi.edu/heals/kb/usda#04047,http://idea.rpi.edu/heals/kb/usda#01229,0.81113195,1,1.0,0.0
-334,642,2219,http://idea.rpi.edu/heals/kb/usda#04047,http://idea.rpi.edu/heals/kb/usda#09041,0.9547754,1,1.0,0.0
-335,642,3106,http://idea.rpi.edu/heals/kb/usda#04047,http://idea.rpi.edu/heals/kb/usda#11242,0.9547754,1,1.0,0.0
-336,670,4078,http://idea.rpi.edu/heals/kb/usda#04518,http://idea.rpi.edu/heals/kb/usda#13491,0.531994,1,1.0,0.0
-337,670,2608,http://idea.rpi.edu/heals/kb/usda#04518,http://idea.rpi.edu/heals/kb/usda#10071,0.531994,1,1.0,0.0
-338,670,3732,http://idea.rpi.edu/heals/kb/usda#04518,http://idea.rpi.edu/heals/kb/usda#11998,0.531994,1,1.0,0.0
-339,670,2339,http://idea.rpi.edu/heals/kb/usda#04518,http://idea.rpi.edu/heals/kb/usda#09193,0.531994,1,1.0,0.0
-340,670,1000,http://idea.rpi.edu/heals/kb/usda#04518,http://idea.rpi.edu/heals/kb/usda#05215,0.531994,1,1.0,0.0
-341,3,5346,http://idea.rpi.edu/heals/kb/usda#01004,http://idea.rpi.edu/heals/kb/usda#17142,0.9313619,1,1.0,0.0
-342,3,3631,http://idea.rpi.edu/heals/kb/usda#01004,http://idea.rpi.edu/heals/kb/usda#11891,0.9313619,1,1.0,0.0
-343,3,4195,http://idea.rpi.edu/heals/kb/usda#01004,http://idea.rpi.edu/heals/kb/usda#13888,0.9313619,1,1.0,0.0
-344,3,5253,http://idea.rpi.edu/heals/kb/usda#01004,http://idea.rpi.edu/heals/kb/usda#17049,0.9313619,1,1.0,0.0
-345,3,6686,http://idea.rpi.edu/heals/kb/usda#01004,http://idea.rpi.edu/heals/kb/usda#20325,0.9313619,1,1.0,0.0
-346,139,5915,http://idea.rpi.edu/heals/kb/usda#01156,http://idea.rpi.edu/heals/kb/usda#18345,0.531994,1,1.0,0.0
-347,139,2945,http://idea.rpi.edu/heals/kb/usda#01156,http://idea.rpi.edu/heals/kb/usda#11028,0.531994,1,1.0,0.0
-348,139,3448,http://idea.rpi.edu/heals/kb/usda#01156,http://idea.rpi.edu/heals/kb/usda#11707,0.531994,1,1.0,0.0
-349,139,3421,http://idea.rpi.edu/heals/kb/usda#01156,http://idea.rpi.edu/heals/kb/usda#11659,0.531994,1,1.0,0.0
-350,139,4163,http://idea.rpi.edu/heals/kb/usda#01156,http://idea.rpi.edu/heals/kb/usda#13856,0.531994,1,1.0,0.0
-351,2314,4378,http://idea.rpi.edu/heals/kb/usda#09152,http://idea.rpi.edu/heals/kb/usda#14143,0.9129799,1,1.0,0.0
-352,2314,159,http://idea.rpi.edu/heals/kb/usda#09152,http://idea.rpi.edu/heals/kb/usda#01184,0.9129799,1,1.0,0.0
-353,2314,4277,http://idea.rpi.edu/heals/kb/usda#09152,http://idea.rpi.edu/heals/kb/usda#14003,0.9129799,1,1.0,0.0
-354,2314,414,http://idea.rpi.edu/heals/kb/usda#09152,http://idea.rpi.edu/heals/kb/usda#03170,0.9129799,1,1.0,0.0
-355,2314,3840,http://idea.rpi.edu/heals/kb/usda#09152,http://idea.rpi.edu/heals/kb/usda#12203,0.9129799,1,1.0,0.0
-356,2428,4507,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#14460,0.8186233,1,1.0,0.0
-357,2428,4305,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#14041,0.8186233,1,1.0,0.0
-358,2428,427,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#03186,0.8186233,1,1.0,0.0
-359,2428,3160,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#11296,0.8186233,1,1.0,0.0
-360,2428,6196,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#19087,0.8186233,1,1.0,0.0
-361,2256,4840,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#15273,0.93254936,1,1.0,0.0
-362,2256,3498,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#11758,0.93254936,1,1.0,0.0
-363,2256,1812,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#07959,0.93254936,1,1.0,0.0
-364,2256,4047,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#13450,0.93254936,1,1.0,0.0
-365,2256,5793,http://idea.rpi.edu/heals/kb/usda#09085,http://idea.rpi.edu/heals/kb/usda#18202,0.93254936,1,1.0,0.0
-366,2428,5387,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#17183,0.8186233,1,1.0,0.0
-367,2428,4790,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#15214,0.8186233,1,1.0,0.0
-368,2428,4628,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#15048,0.8186233,1,1.0,0.0
-369,2428,5581,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#17378,0.8186233,1,1.0,0.0
-370,2428,4094,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#13596,0.8186233,1,1.0,0.0
-371,2428,3190,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#11339,0.8186233,1,1.0,0.0
-372,2428,5588,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#17385,0.8186233,1,1.0,0.0
-373,2428,4777,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#15201,0.8186233,1,1.0,0.0
-374,2428,3449,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#11709,0.8186233,1,1.0,0.0
-375,2428,523,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#03825,0.8186233,1,1.0,0.0
-376,3763,4804,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#15228,0.531994,1,1.0,0.0
-377,3763,5089,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#16370,0.531994,1,1.0,0.0
-378,3763,5650,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#18011,0.531994,1,1.0,0.0
-379,3763,1849,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#08035,0.531994,1,1.0,0.0
-380,3763,697,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#04574,0.531994,1,1.0,0.0
-381,3813,3355,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#11559,0.531994,1,1.0,0.0
-382,3813,4085,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#13498,0.531994,1,1.0,0.0
-383,3813,4155,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#13848,0.531994,1,1.0,0.0
-384,3813,6655,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#20124,0.531994,1,1.0,0.0
-385,3813,6651,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#20120,0.531994,1,1.0,0.0
-386,3805,5798,http://idea.rpi.edu/heals/kb/usda#12135,http://idea.rpi.edu/heals/kb/usda#18209,0.531994,1,1.0,0.0
-387,3805,4081,http://idea.rpi.edu/heals/kb/usda#12135,http://idea.rpi.edu/heals/kb/usda#13494,0.531994,1,1.0,0.0
-388,3805,5445,http://idea.rpi.edu/heals/kb/usda#12135,http://idea.rpi.edu/heals/kb/usda#17241,0.531994,1,1.0,0.0
-389,3805,4436,http://idea.rpi.edu/heals/kb/usda#12135,http://idea.rpi.edu/heals/kb/usda#14282,0.531994,1,1.0,0.0
-390,3805,2336,http://idea.rpi.edu/heals/kb/usda#12135,http://idea.rpi.edu/heals/kb/usda#09190,0.531994,1,1.0,0.0
-391,3813,4954,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#16117,0.531994,1,1.0,0.0
-392,3813,818,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#05013,0.531994,1,1.0,0.0
-393,3813,5569,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#17366,0.531994,1,1.0,0.0
-394,3813,5589,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#17386,0.531994,1,1.0,0.0
-395,3813,4316,http://idea.rpi.edu/heals/kb/usda#12147,http://idea.rpi.edu/heals/kb/usda#14055,0.531994,1,1.0,0.0
-396,3185,3500,http://idea.rpi.edu/heals/kb/usda#11333,http://idea.rpi.edu/heals/kb/usda#11760,0.7551168,1,1.0,0.0
-397,3185,3235,http://idea.rpi.edu/heals/kb/usda#11333,http://idea.rpi.edu/heals/kb/usda#11395,0.7551168,1,1.0,0.0
-398,3185,6029,http://idea.rpi.edu/heals/kb/usda#11333,http://idea.rpi.edu/heals/kb/usda#18538,0.7551168,1,1.0,0.0
-399,3185,1247,http://idea.rpi.edu/heals/kb/usda#11333,http://idea.rpi.edu/heals/kb/usda#06071,0.7551168,1,1.0,0.0
-400,3185,295,http://idea.rpi.edu/heals/kb/usda#11333,http://idea.rpi.edu/heals/kb/usda#02066,0.7551168,1,1.0,0.0
-401,1606,2318,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#09159,0.531994,1,1.0,0.0
-402,1606,68,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#01074,0.531994,1,1.0,0.0
-403,1606,3346,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#11540,0.531994,1,1.0,0.0
-404,1606,5487,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#17284,0.531994,1,1.0,0.0
-405,1606,2922,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#10998,0.531994,1,1.0,0.0
-406,3763,4460,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#14352,0.531994,1,1.0,0.0
-407,3763,5671,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#18037,0.531994,1,1.0,0.0
-408,3763,3004,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#11113,0.531994,1,1.0,0.0
-409,3763,2582,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#10048,0.531994,1,1.0,0.0
-410,3763,3493,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#11753,0.531994,1,1.0,0.0
-411,3809,1875,http://idea.rpi.edu/heals/kb/usda#12142,http://idea.rpi.edu/heals/kb/usda#08078,0.531994,1,1.0,0.0
-412,3809,228,http://idea.rpi.edu/heals/kb/usda#12142,http://idea.rpi.edu/heals/kb/usda#01276,0.531994,1,1.0,0.0
-413,3809,3292,http://idea.rpi.edu/heals/kb/usda#12142,http://idea.rpi.edu/heals/kb/usda#11468,0.531994,1,1.0,0.0
-414,3809,5848,http://idea.rpi.edu/heals/kb/usda#12142,http://idea.rpi.edu/heals/kb/usda#18262,0.531994,1,1.0,0.0
-415,3809,892,http://idea.rpi.edu/heals/kb/usda#12142,http://idea.rpi.edu/heals/kb/usda#05087,0.531994,1,1.0,0.0
-416,3763,6185,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#19075,0.531994,1,1.0,0.0
-417,3763,2654,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#1012,0.531994,1,1.0,0.0
-418,3763,1748,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#07269,0.531994,1,1.0,0.0
-419,3763,6041,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#18610,0.531994,1,1.0,0.0
-420,3763,1424,http://idea.rpi.edu/heals/kb/usda#12061,http://idea.rpi.edu/heals/kb/usda#06402,0.531994,1,1.0,0.0
-421,3001,5113,http://idea.rpi.edu/heals/kb/usda#11109,http://idea.rpi.edu/heals/kb/usda#16419,0.531994,1,1.0,0.0
-422,3001,3341,http://idea.rpi.edu/heals/kb/usda#11109,http://idea.rpi.edu/heals/kb/usda#11529,0.531994,1,1.0,0.0
-423,3001,4427,http://idea.rpi.edu/heals/kb/usda#11109,http://idea.rpi.edu/heals/kb/usda#14243,0.531994,1,1.0,0.0
-424,3001,6551,http://idea.rpi.edu/heals/kb/usda#11109,http://idea.rpi.edu/heals/kb/usda#20008,0.531994,1,1.0,0.0
-425,3001,6176,http://idea.rpi.edu/heals/kb/usda#11109,http://idea.rpi.edu/heals/kb/usda#19063,0.531994,1,1.0,0.0
-426,3003,2475,http://idea.rpi.edu/heals/kb/usda#11112,http://idea.rpi.edu/heals/kb/usda#09412,0.80998677,1,1.0,0.0
-427,3003,3390,http://idea.rpi.edu/heals/kb/usda#11112,http://idea.rpi.edu/heals/kb/usda#11613,0.80998677,1,1.0,0.0
-428,3003,857,http://idea.rpi.edu/heals/kb/usda#11112,http://idea.rpi.edu/heals/kb/usda#05052,0.80998677,1,1.0,0.0
-429,3003,2630,http://idea.rpi.edu/heals/kb/usda#11112,http://idea.rpi.edu/heals/kb/usda#10096,0.80998677,1,1.0,0.0
-430,3003,2671,http://idea.rpi.edu/heals/kb/usda#11112,http://idea.rpi.edu/heals/kb/usda#10141,0.80998677,1,1.0,0.0
-431,2984,3497,http://idea.rpi.edu/heals/kb/usda#11090,http://idea.rpi.edu/heals/kb/usda#11757,0.531994,1,1.0,0.0
-432,2984,1927,http://idea.rpi.edu/heals/kb/usda#11090,http://idea.rpi.edu/heals/kb/usda#08173,0.531994,1,1.0,0.0
-433,2984,6439,http://idea.rpi.edu/heals/kb/usda#11090,http://idea.rpi.edu/heals/kb/usda#19412,0.531994,1,1.0,0.0
-434,2984,5366,http://idea.rpi.edu/heals/kb/usda#11090,http://idea.rpi.edu/heals/kb/usda#17162,0.531994,1,1.0,0.0
-435,2984,2461,http://idea.rpi.edu/heals/kb/usda#11090,http://idea.rpi.edu/heals/kb/usda#09370,0.004387324,0,1.0,-1.0
-436,3007,6229,http://idea.rpi.edu/heals/kb/usda#11116,http://idea.rpi.edu/heals/kb/usda#19120,0.8052317,1,1.0,0.0
-437,3007,3045,http://idea.rpi.edu/heals/kb/usda#11116,http://idea.rpi.edu/heals/kb/usda#11167,0.8052317,1,1.0,0.0
-438,3007,3476,http://idea.rpi.edu/heals/kb/usda#11116,http://idea.rpi.edu/heals/kb/usda#11736,0.8052317,1,1.0,0.0
-439,3007,6586,http://idea.rpi.edu/heals/kb/usda#11116,http://idea.rpi.edu/heals/kb/usda#20047,0.8052317,1,1.0,0.0
-440,3007,1515,http://idea.rpi.edu/heals/kb/usda#11116,http://idea.rpi.edu/heals/kb/usda#06592,0.8052317,1,1.0,0.0
-441,2992,2323,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#09165,0.8595463,1,1.0,0.0
-442,2992,5207,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#17003,0.8595463,1,1.0,0.0
-443,2992,4391,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#14156,0.8595463,1,1.0,0.0
-444,2992,2207,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#09029,0.8595463,1,1.0,0.0
-445,2992,5771,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#18176,0.8595463,1,1.0,0.0
-446,2992,2312,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#09149,0.8595463,1,1.0,0.0
-447,2992,2314,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#09152,0.8595463,1,1.0,0.0
-448,2992,4720,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#15143,0.8595463,1,1.0,0.0
-449,2992,2097,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#08614,0.8595463,1,1.0,0.0
-450,2992,6441,http://idea.rpi.edu/heals/kb/usda#11098,http://idea.rpi.edu/heals/kb/usda#19414,0.8595463,1,1.0,0.0
-451,3069,3992,http://idea.rpi.edu/heals/kb/usda#11203,http://idea.rpi.edu/heals/kb/usda#13381,0.531994,1,1.0,0.0
-452,3069,4782,http://idea.rpi.edu/heals/kb/usda#11203,http://idea.rpi.edu/heals/kb/usda#15206,0.531994,1,1.0,0.0
-453,3069,5073,http://idea.rpi.edu/heals/kb/usda#11203,http://idea.rpi.edu/heals/kb/usda#16338,0.531994,1,1.0,0.0
-454,3069,5427,http://idea.rpi.edu/heals/kb/usda#11203,http://idea.rpi.edu/heals/kb/usda#17223,0.531994,1,1.0,0.0
-455,3069,358,http://idea.rpi.edu/heals/kb/usda#11203,http://idea.rpi.edu/heals/kb/usda#03096,0.531994,1,1.0,0.0
-456,57,2703,http://idea.rpi.edu/heals/kb/usda#01059,http://idea.rpi.edu/heals/kb/usda#10186,0.531994,1,1.0,0.0
-457,57,2613,http://idea.rpi.edu/heals/kb/usda#01059,http://idea.rpi.edu/heals/kb/usda#10076,0.531994,1,1.0,0.0
-458,57,3877,http://idea.rpi.edu/heals/kb/usda#01059,http://idea.rpi.edu/heals/kb/usda#1260,0.531994,1,1.0,0.0
-459,57,5553,http://idea.rpi.edu/heals/kb/usda#01059,http://idea.rpi.edu/heals/kb/usda#17350,0.531994,1,1.0,0.0
-460,57,3197,http://idea.rpi.edu/heals/kb/usda#01059,http://idea.rpi.edu/heals/kb/usda#11353,0.531994,1,1.0,0.0
-461,49,2836,http://idea.rpi.edu/heals/kb/usda#01050,http://idea.rpi.edu/heals/kb/usda#10904,0.531994,1,1.0,0.0
-462,49,4477,http://idea.rpi.edu/heals/kb/usda#01050,http://idea.rpi.edu/heals/kb/usda#14405,0.531994,1,1.0,0.0
-463,49,3124,http://idea.rpi.edu/heals/kb/usda#01050,http://idea.rpi.edu/heals/kb/usda#11260,0.531994,1,1.0,0.0
-464,49,3872,http://idea.rpi.edu/heals/kb/usda#01050,http://idea.rpi.edu/heals/kb/usda#12567,0.531994,1,1.0,0.0
-465,49,3518,http://idea.rpi.edu/heals/kb/usda#01050,http://idea.rpi.edu/heals/kb/usda#11779,0.531994,1,1.0,0.0
-466,84,3264,http://idea.rpi.edu/heals/kb/usda#01091,http://idea.rpi.edu/heals/kb/usda#11430,0.89742583,1,1.0,0.0
-467,84,6483,http://idea.rpi.edu/heals/kb/usda#01091,http://idea.rpi.edu/heals/kb/usda#19813,0.89742583,1,1.0,0.0
-468,84,1578,http://idea.rpi.edu/heals/kb/usda#01091,http://idea.rpi.edu/heals/kb/usda#06972,0.89742583,1,1.0,0.0
-469,84,5271,http://idea.rpi.edu/heals/kb/usda#01091,http://idea.rpi.edu/heals/kb/usda#17067,0.89742583,1,1.0,0.0
-470,84,6512,http://idea.rpi.edu/heals/kb/usda#01091,http://idea.rpi.edu/heals/kb/usda#19881,0.89742583,1,1.0,0.0
-471,2220,2198,http://idea.rpi.edu/heals/kb/usda#09042,http://idea.rpi.edu/heals/kb/usda#09020,0.531994,1,1.0,0.0
-472,2220,1907,http://idea.rpi.edu/heals/kb/usda#09042,http://idea.rpi.edu/heals/kb/usda#08132,0.531994,1,1.0,0.0
-473,2220,1978,http://idea.rpi.edu/heals/kb/usda#09042,http://idea.rpi.edu/heals/kb/usda#08314,0.531994,1,1.0,0.0
-474,2220,786,http://idea.rpi.edu/heals/kb/usda#09042,http://idea.rpi.edu/heals/kb/usda#04690,0.531994,1,1.0,0.0
-475,2220,1223,http://idea.rpi.edu/heals/kb/usda#09042,http://idea.rpi.edu/heals/kb/usda#06042,0.531994,1,1.0,0.0
-476,2932,5816,http://idea.rpi.edu/heals/kb/usda#11011,http://idea.rpi.edu/heals/kb/usda#18227,0.531994,1,1.0,0.0
-477,2932,5329,http://idea.rpi.edu/heals/kb/usda#11011,http://idea.rpi.edu/heals/kb/usda#17125,0.531994,1,1.0,0.0
-478,2932,5869,http://idea.rpi.edu/heals/kb/usda#11011,http://idea.rpi.edu/heals/kb/usda#18284,0.531994,1,1.0,0.0
-479,2932,2090,http://idea.rpi.edu/heals/kb/usda#11011,http://idea.rpi.edu/heals/kb/usda#08603,0.531994,1,1.0,0.0
-480,2932,3608,http://idea.rpi.edu/heals/kb/usda#11011,http://idea.rpi.edu/heals/kb/usda#11866,0.531994,1,1.0,0.0
-481,647,4386,http://idea.rpi.edu/heals/kb/usda#04073,http://idea.rpi.edu/heals/kb/usda#14151,0.531994,1,1.0,0.0
-482,647,6074,http://idea.rpi.edu/heals/kb/usda#04073,http://idea.rpi.edu/heals/kb/usda#18943,0.531994,1,1.0,0.0
-483,647,4072,http://idea.rpi.edu/heals/kb/usda#04073,http://idea.rpi.edu/heals/kb/usda#13484,0.531994,1,1.0,0.0
-484,647,4038,http://idea.rpi.edu/heals/kb/usda#04073,http://idea.rpi.edu/heals/kb/usda#13441,0.531994,1,1.0,0.0
-485,647,5591,http://idea.rpi.edu/heals/kb/usda#04073,http://idea.rpi.edu/heals/kb/usda#17388,0.531994,1,1.0,0.0
-486,770,6140,http://idea.rpi.edu/heals/kb/usda#04669,http://idea.rpi.edu/heals/kb/usda#19014,0.8285774,1,1.0,0.0
-487,770,6203,http://idea.rpi.edu/heals/kb/usda#04669,http://idea.rpi.edu/heals/kb/usda#19094,0.8285774,1,1.0,0.0
-488,770,3641,http://idea.rpi.edu/heals/kb/usda#04669,http://idea.rpi.edu/heals/kb/usda#11901,0.8285774,1,1.0,0.0
-489,770,2435,http://idea.rpi.edu/heals/kb/usda#04669,http://idea.rpi.edu/heals/kb/usda#09309,0.8285774,1,1.0,0.0
-490,770,240,http://idea.rpi.edu/heals/kb/usda#04669,http://idea.rpi.edu/heals/kb/usda#02003,0.03092794,0,1.0,-1.0
-491,19,2195,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#09017,0.531994,1,1.0,0.0
-492,19,3932,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#13294,0.531994,1,1.0,0.0
-493,19,4030,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#13426,0.531994,1,1.0,0.0
-494,19,2774,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#1077,0.531994,1,1.0,0.0
-495,19,2135,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#08665,0.531994,1,1.0,0.0
-496,39,5752,http://idea.rpi.edu/heals/kb/usda#01040,http://idea.rpi.edu/heals/kb/usda#18155,0.8999544,1,1.0,0.0
-497,39,633,http://idea.rpi.edu/heals/kb/usda#01040,http://idea.rpi.edu/heals/kb/usda#04028,0.8999544,1,1.0,0.0
-498,39,6416,http://idea.rpi.edu/heals/kb/usda#01040,http://idea.rpi.edu/heals/kb/usda#19368,0.8999544,1,1.0,0.0
-499,39,4051,http://idea.rpi.edu/heals/kb/usda#01040,http://idea.rpi.edu/heals/kb/usda#13454,0.8999544,1,1.0,0.0
-500,39,4678,http://idea.rpi.edu/heals/kb/usda#01040,http://idea.rpi.edu/heals/kb/usda#15098,0.8999544,1,1.0,0.0
-501,11,1560,http://idea.rpi.edu/heals/kb/usda#01012,http://idea.rpi.edu/heals/kb/usda#06932,0.7429992,1,1.0,0.0
-502,11,3397,http://idea.rpi.edu/heals/kb/usda#01012,http://idea.rpi.edu/heals/kb/usda#11621,0.7429992,1,1.0,0.0
-503,11,2750,http://idea.rpi.edu/heals/kb/usda#01012,http://idea.rpi.edu/heals/kb/usda#1025,0.7429992,1,1.0,0.0
-504,11,6599,http://idea.rpi.edu/heals/kb/usda#01012,http://idea.rpi.edu/heals/kb/usda#20063,0.0008328314,0,1.0,-1.0
-505,11,119,http://idea.rpi.edu/heals/kb/usda#01012,http://idea.rpi.edu/heals/kb/usda#01130,0.7429992,1,1.0,0.0
-506,2324,5021,http://idea.rpi.edu/heals/kb/usda#09167,http://idea.rpi.edu/heals/kb/usda#16235,0.531994,1,1.0,0.0
-507,2324,5505,http://idea.rpi.edu/heals/kb/usda#09167,http://idea.rpi.edu/heals/kb/usda#17302,0.531994,1,1.0,0.0
-508,2324,6366,http://idea.rpi.edu/heals/kb/usda#09167,http://idea.rpi.edu/heals/kb/usda#19301,0.531994,1,1.0,0.0
-509,2324,1077,http://idea.rpi.edu/heals/kb/usda#09167,http://idea.rpi.edu/heals/kb/usda#05628,0.531994,1,1.0,0.0
-510,2324,810,http://idea.rpi.edu/heals/kb/usda#09167,http://idea.rpi.edu/heals/kb/usda#05005,0.531994,1,1.0,0.0
-511,8,4498,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#14432,0.9794039,1,1.0,0.0
-512,8,1840,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#08020,0.9794039,1,1.0,0.0
-513,8,1001,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#05216,0.9794039,1,1.0,0.0
-514,8,579,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#03949,0.9794039,1,1.0,0.0
-515,8,3586,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#11846,0.9794039,1,1.0,0.0
-516,19,2020,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#08463,0.531994,1,1.0,0.0
-517,19,3391,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#11614,0.531994,1,1.0,0.0
-518,19,4220,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#13913,0.531994,1,1.0,0.0
-519,19,1179,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#05741,0.531994,1,1.0,0.0
-520,19,4781,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#15205,0.531994,1,1.0,0.0
-521,18,1432,http://idea.rpi.edu/heals/kb/usda#01019,http://idea.rpi.edu/heals/kb/usda#06411,0.89664,1,1.0,0.0
-522,18,3471,http://idea.rpi.edu/heals/kb/usda#01019,http://idea.rpi.edu/heals/kb/usda#11731,0.89664,1,1.0,0.0
-523,18,5518,http://idea.rpi.edu/heals/kb/usda#01019,http://idea.rpi.edu/heals/kb/usda#17315,0.89664,1,1.0,0.0
-524,18,3812,http://idea.rpi.edu/heals/kb/usda#01019,http://idea.rpi.edu/heals/kb/usda#12145,0.89664,1,1.0,0.0
-525,18,2502,http://idea.rpi.edu/heals/kb/usda#01019,http://idea.rpi.edu/heals/kb/usda#09446,0.89664,1,1.0,0.0
-526,8,5989,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#18443,0.9794039,1,1.0,0.0
-527,8,840,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#05035,0.9794039,1,1.0,0.0
-528,8,4663,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#15083,0.9794039,1,1.0,0.0
-529,8,1714,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#07234,0.9794039,1,1.0,0.0
-530,8,4605,http://idea.rpi.edu/heals/kb/usda#01009,http://idea.rpi.edu/heals/kb/usda#15025,0.9794039,1,1.0,0.0
-531,16,1210,http://idea.rpi.edu/heals/kb/usda#01017,http://idea.rpi.edu/heals/kb/usda#06026,0.924347,1,1.0,0.0
-532,16,3856,http://idea.rpi.edu/heals/kb/usda#01017,http://idea.rpi.edu/heals/kb/usda#1241,0.924347,1,1.0,0.0
-533,16,766,http://idea.rpi.edu/heals/kb/usda#01017,http://idea.rpi.edu/heals/kb/usda#04665,0.924347,1,1.0,0.0
-534,16,6084,http://idea.rpi.edu/heals/kb/usda#01017,http://idea.rpi.edu/heals/kb/usda#18953,0.924347,1,1.0,0.0
-535,16,1960,http://idea.rpi.edu/heals/kb/usda#01017,http://idea.rpi.edu/heals/kb/usda#08259,0.924347,1,1.0,0.0
-536,10,1770,http://idea.rpi.edu/heals/kb/usda#01011,http://idea.rpi.edu/heals/kb/usda#07914,0.531994,1,1.0,0.0
-537,10,181,http://idea.rpi.edu/heals/kb/usda#01011,http://idea.rpi.edu/heals/kb/usda#01212,0.531994,1,1.0,0.0
-538,10,269,http://idea.rpi.edu/heals/kb/usda#01011,http://idea.rpi.edu/heals/kb/usda#02032,0.531994,1,1.0,0.0
-539,10,3937,http://idea.rpi.edu/heals/kb/usda#01011,http://idea.rpi.edu/heals/kb/usda#13321,0.531994,1,1.0,0.0
-540,10,6010,http://idea.rpi.edu/heals/kb/usda#01011,http://idea.rpi.edu/heals/kb/usda#18489,0.531994,1,1.0,0.0
-541,19,5714,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#18095,0.531994,1,1.0,0.0
-542,19,5314,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#17110,0.531994,1,1.0,0.0
-543,19,5076,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#16345,0.531994,1,1.0,0.0
-544,19,5525,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#17322,0.531994,1,1.0,0.0
-545,19,6572,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#20031,0.15695679,0,1.0,-1.0
-546,3146,5634,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#17431,0.531994,1,1.0,0.0
-547,3146,3203,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#11359,0.531994,1,1.0,0.0
-548,3146,6365,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#19300,0.531994,1,1.0,0.0
-549,3146,2972,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#11061,0.531994,1,1.0,0.0
-550,3146,6019,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#18513,0.531994,1,1.0,0.0
-551,3037,3654,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#11914,0.531994,1,1.0,0.0
-552,3037,3541,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#1180,0.531994,1,1.0,0.0
-553,3037,4216,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#13909,0.531994,1,1.0,0.0
-554,3037,1666,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#07071,0.531994,1,1.0,0.0
-555,3037,5327,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#17123,0.531994,1,1.0,0.0
-556,257,5245,http://idea.rpi.edu/heals/kb/usda#02020,http://idea.rpi.edu/heals/kb/usda#17041,0.8317082,1,1.0,0.0
-557,257,4722,http://idea.rpi.edu/heals/kb/usda#02020,http://idea.rpi.edu/heals/kb/usda#15145,0.8317082,1,1.0,0.0
-558,257,232,http://idea.rpi.edu/heals/kb/usda#02020,http://idea.rpi.edu/heals/kb/usda#01286,0.8317082,1,1.0,0.0
-559,257,2546,http://idea.rpi.edu/heals/kb/usda#02020,http://idea.rpi.edu/heals/kb/usda#10015,0.8317082,1,1.0,0.0
-560,257,2752,http://idea.rpi.edu/heals/kb/usda#02020,http://idea.rpi.edu/heals/kb/usda#1029,0.8317082,1,1.0,0.0
-561,249,5608,http://idea.rpi.edu/heals/kb/usda#02012,http://idea.rpi.edu/heals/kb/usda#17405,0.8799508,1,1.0,0.0
-562,249,4774,http://idea.rpi.edu/heals/kb/usda#02012,http://idea.rpi.edu/heals/kb/usda#15198,0.8799508,1,1.0,0.0
-563,249,4333,http://idea.rpi.edu/heals/kb/usda#02012,http://idea.rpi.edu/heals/kb/usda#14074,0.8799508,1,1.0,0.0
-564,249,5148,http://idea.rpi.edu/heals/kb/usda#02012,http://idea.rpi.edu/heals/kb/usda#16524,0.8799508,1,1.0,0.0
-565,249,2439,http://idea.rpi.edu/heals/kb/usda#02012,http://idea.rpi.edu/heals/kb/usda#09313,0.8799508,1,1.0,0.0
-566,3146,4237,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#13930,0.531994,1,1.0,0.0
-567,3146,6578,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#20037,0.531994,1,1.0,0.0
-568,3146,595,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#03967,0.531994,1,1.0,0.0
-569,3146,6153,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#19035,0.531994,1,1.0,0.0
-570,3146,1874,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#08077,0.531994,1,1.0,0.0
-571,639,2530,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#10000,0.76499885,1,1.0,0.0
-572,639,6718,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#20623,0.76499885,1,1.0,0.0
-573,639,942,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#05137,0.76499885,1,1.0,0.0
-574,639,2383,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#09252,0.13110039,0,1.0,-1.0
-575,639,959,http://idea.rpi.edu/heals/kb/usda#04038,http://idea.rpi.edu/heals/kb/usda#05154,0.76499885,1,1.0,0.0
-576,1606,5296,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#17092,0.531994,1,1.0,0.0
-577,1606,928,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#05123,0.531994,1,1.0,0.0
-578,1606,2449,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#09325,0.531994,1,1.0,0.0
-579,1606,4514,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#14532,0.531994,1,1.0,0.0
-580,1606,6408,http://idea.rpi.edu/heals/kb/usda#07005,http://idea.rpi.edu/heals/kb/usda#19360,0.531994,1,1.0,0.0
-581,4907,1263,http://idea.rpi.edu/heals/kb/usda#16069,http://idea.rpi.edu/heals/kb/usda#06117,0.531994,1,1.0,0.0
-582,4907,695,http://idea.rpi.edu/heals/kb/usda#16069,http://idea.rpi.edu/heals/kb/usda#04572,0.531994,1,1.0,0.0
-583,4907,4193,http://idea.rpi.edu/heals/kb/usda#16069,http://idea.rpi.edu/heals/kb/usda#13886,0.531994,1,1.0,0.0
-584,4907,1626,http://idea.rpi.edu/heals/kb/usda#16069,http://idea.rpi.edu/heals/kb/usda#07027,0.531994,1,1.0,0.0
-585,4907,5901,http://idea.rpi.edu/heals/kb/usda#16069,http://idea.rpi.edu/heals/kb/usda#18325,0.531994,1,1.0,0.0
-586,4965,4022,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#13418,0.531994,1,1.0,0.0
-587,4965,366,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#03112,0.531994,1,1.0,0.0
-588,4965,2481,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#09422,0.531994,1,1.0,0.0
-589,4965,5276,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#17072,0.531994,1,1.0,0.0
-590,4965,2500,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#09444,0.531994,1,1.0,0.0
-591,3357,698,http://idea.rpi.edu/heals/kb/usda#11564,http://idea.rpi.edu/heals/kb/usda#04575,0.531994,1,1.0,0.0
-592,3357,4275,http://idea.rpi.edu/heals/kb/usda#11564,http://idea.rpi.edu/heals/kb/usda#13983,0.531994,1,1.0,0.0
-593,3357,61,http://idea.rpi.edu/heals/kb/usda#11564,http://idea.rpi.edu/heals/kb/usda#01067,0.531994,1,1.0,0.0
-594,3357,5730,http://idea.rpi.edu/heals/kb/usda#11564,http://idea.rpi.edu/heals/kb/usda#18119,0.531994,1,1.0,0.0
-595,3357,6343,http://idea.rpi.edu/heals/kb/usda#11564,http://idea.rpi.edu/heals/kb/usda#19256,0.531994,1,1.0,0.0
-596,3019,315,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#03016,0.531994,1,1.0,0.0
-597,3019,3852,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#1237,0.531994,1,1.0,0.0
-598,3019,5889,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#18310,0.531994,1,1.0,0.0
-599,3019,2716,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#1020,0.531994,1,1.0,0.0
-600,3019,1238,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#06057,0.531994,1,1.0,0.0
-601,6619,4541,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#14609,0.531994,1,1.0,0.0
-602,6619,3256,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#11419,0.531994,1,1.0,0.0
-603,6619,4841,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#15274,0.531994,1,1.0,0.0
-604,6619,780,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#04684,0.531994,1,1.0,0.0
-605,6619,6410,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#19362,0.531994,1,1.0,0.0
-606,6554,3981,http://idea.rpi.edu/heals/kb/usda#20011,http://idea.rpi.edu/heals/kb/usda#13367,0.8573874,1,1.0,0.0
-607,6554,5776,http://idea.rpi.edu/heals/kb/usda#20011,http://idea.rpi.edu/heals/kb/usda#18182,0.8573874,1,1.0,0.0
-608,6554,3131,http://idea.rpi.edu/heals/kb/usda#20011,http://idea.rpi.edu/heals/kb/usda#11268,0.8573874,1,1.0,0.0
-609,6554,6560,http://idea.rpi.edu/heals/kb/usda#20011,http://idea.rpi.edu/heals/kb/usda#20017,0.8573874,1,1.0,0.0
-610,6554,2215,http://idea.rpi.edu/heals/kb/usda#20011,http://idea.rpi.edu/heals/kb/usda#09037,0.8573874,1,1.0,0.0
-611,6669,1594,http://idea.rpi.edu/heals/kb/usda#20140,http://idea.rpi.edu/heals/kb/usda#06991,0.531994,1,1.0,0.0
-612,6669,937,http://idea.rpi.edu/heals/kb/usda#20140,http://idea.rpi.edu/heals/kb/usda#05132,0.531994,1,1.0,0.0
-613,6669,1251,http://idea.rpi.edu/heals/kb/usda#20140,http://idea.rpi.edu/heals/kb/usda#06080,0.531994,1,1.0,0.0
-614,6669,1713,http://idea.rpi.edu/heals/kb/usda#20140,http://idea.rpi.edu/heals/kb/usda#07233,0.531994,1,1.0,0.0
-615,6669,3615,http://idea.rpi.edu/heals/kb/usda#20140,http://idea.rpi.edu/heals/kb/usda#11873,0.531994,1,1.0,0.0
-616,2383,5588,http://idea.rpi.edu/heals/kb/usda#09252,http://idea.rpi.edu/heals/kb/usda#17385,0.531994,1,1.0,0.0
-617,2383,4446,http://idea.rpi.edu/heals/kb/usda#09252,http://idea.rpi.edu/heals/kb/usda#14310,0.531994,1,1.0,0.0
-618,2383,3877,http://idea.rpi.edu/heals/kb/usda#09252,http://idea.rpi.edu/heals/kb/usda#1260,0.531994,1,1.0,0.0
-619,2383,2999,http://idea.rpi.edu/heals/kb/usda#09252,http://idea.rpi.edu/heals/kb/usda#11107,0.531994,1,1.0,0.0
-620,2383,994,http://idea.rpi.edu/heals/kb/usda#09252,http://idea.rpi.edu/heals/kb/usda#05192,0.531994,1,1.0,0.0
-621,275,301,http://idea.rpi.edu/heals/kb/usda#02038,http://idea.rpi.edu/heals/kb/usda#02076,0.6772935,1,1.0,0.0
-622,275,2580,http://idea.rpi.edu/heals/kb/usda#02038,http://idea.rpi.edu/heals/kb/usda#10046,0.6772935,1,1.0,0.0
-623,275,2247,http://idea.rpi.edu/heals/kb/usda#02038,http://idea.rpi.edu/heals/kb/usda#09075,0.6772935,1,1.0,0.0
-624,275,1694,http://idea.rpi.edu/heals/kb/usda#02038,http://idea.rpi.edu/heals/kb/usda#07212,0.6772935,1,1.0,0.0
-625,275,1989,http://idea.rpi.edu/heals/kb/usda#02038,http://idea.rpi.edu/heals/kb/usda#08354,0.6772935,1,1.0,0.0
-626,2313,5219,http://idea.rpi.edu/heals/kb/usda#09150,http://idea.rpi.edu/heals/kb/usda#17015,0.531994,1,1.0,0.0
-627,2313,3172,http://idea.rpi.edu/heals/kb/usda#09150,http://idea.rpi.edu/heals/kb/usda#11310,0.531994,1,1.0,0.0
-628,2313,5003,http://idea.rpi.edu/heals/kb/usda#09150,http://idea.rpi.edu/heals/kb/usda#16203,0.531994,1,1.0,0.0
-629,2313,1294,http://idea.rpi.edu/heals/kb/usda#09150,http://idea.rpi.edu/heals/kb/usda#06174,0.531994,1,1.0,0.0
-630,2313,2795,http://idea.rpi.edu/heals/kb/usda#09150,http://idea.rpi.edu/heals/kb/usda#10864,0.531994,1,1.0,0.0
-631,81,783,http://idea.rpi.edu/heals/kb/usda#01088,http://idea.rpi.edu/heals/kb/usda#04687,0.531994,1,1.0,0.0
-632,81,774,http://idea.rpi.edu/heals/kb/usda#01088,http://idea.rpi.edu/heals/kb/usda#04675,0.531994,1,1.0,0.0
-633,81,634,http://idea.rpi.edu/heals/kb/usda#01088,http://idea.rpi.edu/heals/kb/usda#04029,0.531994,1,1.0,0.0
-634,81,3916,http://idea.rpi.edu/heals/kb/usda#01088,http://idea.rpi.edu/heals/kb/usda#13148,0.531994,1,1.0,0.0
-635,81,4344,http://idea.rpi.edu/heals/kb/usda#01088,http://idea.rpi.edu/heals/kb/usda#14088,0.531994,1,1.0,0.0
-636,3796,1839,http://idea.rpi.edu/heals/kb/usda#12120,http://idea.rpi.edu/heals/kb/usda#08019,0.531994,1,1.0,0.0
-637,3796,2736,http://idea.rpi.edu/heals/kb/usda#12120,http://idea.rpi.edu/heals/kb/usda#10219,0.531994,1,1.0,0.0
-638,3796,5022,http://idea.rpi.edu/heals/kb/usda#12120,http://idea.rpi.edu/heals/kb/usda#16236,0.531994,1,1.0,0.0
-639,3796,3242,http://idea.rpi.edu/heals/kb/usda#12120,http://idea.rpi.edu/heals/kb/usda#11402,0.531994,1,1.0,0.0
-640,3796,1014,http://idea.rpi.edu/heals/kb/usda#12120,http://idea.rpi.edu/heals/kb/usda#05294,0.531994,1,1.0,0.0
-641,3298,3661,http://idea.rpi.edu/heals/kb/usda#11477,http://idea.rpi.edu/heals/kb/usda#11922,0.531994,1,1.0,0.0
-642,3298,3316,http://idea.rpi.edu/heals/kb/usda#11477,http://idea.rpi.edu/heals/kb/usda#11496,0.531994,1,1.0,0.0
-643,3298,4151,http://idea.rpi.edu/heals/kb/usda#11477,http://idea.rpi.edu/heals/kb/usda#13844,0.531994,1,1.0,0.0
-644,3298,6517,http://idea.rpi.edu/heals/kb/usda#11477,http://idea.rpi.edu/heals/kb/usda#19887,0.531994,1,1.0,0.0
-645,3298,5486,http://idea.rpi.edu/heals/kb/usda#11477,http://idea.rpi.edu/heals/kb/usda#17283,0.531994,1,1.0,0.0
-646,19,6636,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#20102,0.531994,1,1.0,0.0
-647,19,6124,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#18993,0.531994,1,1.0,0.0
-648,19,3644,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#11904,0.531994,1,1.0,0.0
-649,19,2923,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#11001,0.531994,1,1.0,0.0
-650,19,5736,http://idea.rpi.edu/heals/kb/usda#01020,http://idea.rpi.edu/heals/kb/usda#18131,0.531994,1,1.0,0.0
-651,203,5460,http://idea.rpi.edu/heals/kb/usda#01238,http://idea.rpi.edu/heals/kb/usda#17256,0.8671297,1,1.0,0.0
-652,203,3821,http://idea.rpi.edu/heals/kb/usda#01238,http://idea.rpi.edu/heals/kb/usda#12158,0.8671297,1,1.0,0.0
-653,203,4638,http://idea.rpi.edu/heals/kb/usda#01238,http://idea.rpi.edu/heals/kb/usda#15058,0.8671297,1,1.0,0.0
-654,203,658,http://idea.rpi.edu/heals/kb/usda#01238,http://idea.rpi.edu/heals/kb/usda#04146,0.8671297,1,1.0,0.0
-655,203,5107,http://idea.rpi.edu/heals/kb/usda#01238,http://idea.rpi.edu/heals/kb/usda#16409,0.8671297,1,1.0,0.0
-656,2429,2890,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#10957,0.531994,1,1.0,0.0
-657,2429,6202,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#19093,0.531994,1,1.0,0.0
-658,2429,6660,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#20130,0.531994,1,1.0,0.0
-659,2429,2643,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#1011,0.531994,1,1.0,0.0
-660,2429,6051,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#18631,0.531994,1,1.0,0.0
-661,3346,5444,http://idea.rpi.edu/heals/kb/usda#11540,http://idea.rpi.edu/heals/kb/usda#17240,0.531994,1,1.0,0.0
-662,3346,6547,http://idea.rpi.edu/heals/kb/usda#11540,http://idea.rpi.edu/heals/kb/usda#20003,0.531994,1,1.0,0.0
-663,3346,478,http://idea.rpi.edu/heals/kb/usda#11540,http://idea.rpi.edu/heals/kb/usda#03286,0.531994,1,1.0,0.0
-664,3346,2285,http://idea.rpi.edu/heals/kb/usda#11540,http://idea.rpi.edu/heals/kb/usda#09116,0.531994,1,1.0,0.0
-665,3346,5789,http://idea.rpi.edu/heals/kb/usda#11540,http://idea.rpi.edu/heals/kb/usda#18198,0.531994,1,1.0,0.0
-666,1821,902,http://idea.rpi.edu/heals/kb/usda#07968,http://idea.rpi.edu/heals/kb/usda#05097,0.531994,1,1.0,0.0
-667,1821,1954,http://idea.rpi.edu/heals/kb/usda#07968,http://idea.rpi.edu/heals/kb/usda#08243,0.531994,1,1.0,0.0
-668,1821,3068,http://idea.rpi.edu/heals/kb/usda#07968,http://idea.rpi.edu/heals/kb/usda#11202,0.531994,1,1.0,0.0
-669,1821,5594,http://idea.rpi.edu/heals/kb/usda#07968,http://idea.rpi.edu/heals/kb/usda#17391,0.531994,1,1.0,0.0
-670,1821,1931,http://idea.rpi.edu/heals/kb/usda#07968,http://idea.rpi.edu/heals/kb/usda#08183,0.531994,1,1.0,0.0
-671,3168,3632,http://idea.rpi.edu/heals/kb/usda#11304,http://idea.rpi.edu/heals/kb/usda#11892,0.74479526,1,1.0,0.0
-672,3168,5692,http://idea.rpi.edu/heals/kb/usda#11304,http://idea.rpi.edu/heals/kb/usda#18065,0.74479526,1,1.0,0.0
-673,3168,6448,http://idea.rpi.edu/heals/kb/usda#11304,http://idea.rpi.edu/heals/kb/usda#19422,0.74479526,1,1.0,0.0
-674,3168,1622,http://idea.rpi.edu/heals/kb/usda#11304,http://idea.rpi.edu/heals/kb/usda#07023,0.74479526,1,1.0,0.0
-675,3168,890,http://idea.rpi.edu/heals/kb/usda#11304,http://idea.rpi.edu/heals/kb/usda#05085,0.74479526,1,1.0,0.0
-676,2399,5432,http://idea.rpi.edu/heals/kb/usda#09268,http://idea.rpi.edu/heals/kb/usda#17228,0.531994,1,1.0,0.0
-677,2399,4706,http://idea.rpi.edu/heals/kb/usda#09268,http://idea.rpi.edu/heals/kb/usda#15129,0.531994,1,1.0,0.0
-678,2399,3729,http://idea.rpi.edu/heals/kb/usda#09268,http://idea.rpi.edu/heals/kb/usda#11994,0.531994,1,1.0,0.0
-679,2399,4839,http://idea.rpi.edu/heals/kb/usda#09268,http://idea.rpi.edu/heals/kb/usda#15272,0.531994,1,1.0,0.0
-680,2399,5555,http://idea.rpi.edu/heals/kb/usda#09268,http://idea.rpi.edu/heals/kb/usda#17352,0.531994,1,1.0,0.0
-681,2375,3883,http://idea.rpi.edu/heals/kb/usda#09243,http://idea.rpi.edu/heals/kb/usda#1264,0.531994,1,1.0,0.0
-682,2375,1855,http://idea.rpi.edu/heals/kb/usda#09243,http://idea.rpi.edu/heals/kb/usda#08047,0.531994,1,1.0,0.0
-683,2375,1345,http://idea.rpi.edu/heals/kb/usda#09243,http://idea.rpi.edu/heals/kb/usda#06245,0.531994,1,1.0,0.0
-684,2375,2072,http://idea.rpi.edu/heals/kb/usda#09243,http://idea.rpi.edu/heals/kb/usda#08582,0.531994,1,1.0,0.0
-685,2375,5589,http://idea.rpi.edu/heals/kb/usda#09243,http://idea.rpi.edu/heals/kb/usda#17386,0.531994,1,1.0,0.0
-686,2428,4425,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#14241,0.8186233,1,1.0,0.0
-687,2428,3816,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#12151,0.8186233,1,1.0,0.0
-688,2428,809,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#05004,0.8186233,1,1.0,0.0
-689,2428,1606,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#07005,0.8186233,1,1.0,0.0
-690,2428,2401,http://idea.rpi.edu/heals/kb/usda#09298,http://idea.rpi.edu/heals/kb/usda#09270,0.8186233,1,1.0,0.0
-691,3275,3777,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#12093,0.531994,1,1.0,0.0
-692,3275,3294,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#11473,0.531994,1,1.0,0.0
-693,3275,1456,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#06443,0.531994,1,1.0,0.0
-694,3275,2618,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#10081,0.531994,1,1.0,0.0
-695,3275,3659,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#11919,0.531994,1,1.0,0.0
-696,3273,3443,http://idea.rpi.edu/heals/kb/usda#11442,http://idea.rpi.edu/heals/kb/usda#11700,0.531994,1,1.0,0.0
-697,3273,4856,http://idea.rpi.edu/heals/kb/usda#11442,http://idea.rpi.edu/heals/kb/usda#16017,0.531994,1,1.0,0.0
-698,3273,380,http://idea.rpi.edu/heals/kb/usda#11442,http://idea.rpi.edu/heals/kb/usda#03131,0.531994,1,1.0,0.0
-699,3273,6265,http://idea.rpi.edu/heals/kb/usda#11442,http://idea.rpi.edu/heals/kb/usda#19159,0.531994,1,1.0,0.0
-700,3273,2264,http://idea.rpi.edu/heals/kb/usda#11442,http://idea.rpi.edu/heals/kb/usda#09093,0.531994,1,1.0,0.0
-701,3275,4197,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#13890,0.531994,1,1.0,0.0
-702,3275,5020,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#16231,0.531994,1,1.0,0.0
-703,3275,5647,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#18007,0.531994,1,1.0,0.0
-704,3275,3139,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#11276,0.531994,1,1.0,0.0
-705,3275,4655,http://idea.rpi.edu/heals/kb/usda#11445,http://idea.rpi.edu/heals/kb/usda#15075,0.531994,1,1.0,0.0
-706,4645,2333,http://idea.rpi.edu/heals/kb/usda#15065,http://idea.rpi.edu/heals/kb/usda#09183,0.531994,1,1.0,0.0
-707,4645,6076,http://idea.rpi.edu/heals/kb/usda#15065,http://idea.rpi.edu/heals/kb/usda#18945,0.531994,1,1.0,0.0
-708,4645,2568,http://idea.rpi.edu/heals/kb/usda#15065,http://idea.rpi.edu/heals/kb/usda#10035,0.531994,1,1.0,0.0
-709,4645,3642,http://idea.rpi.edu/heals/kb/usda#15065,http://idea.rpi.edu/heals/kb/usda#11902,0.531994,1,1.0,0.0
-710,4645,4475,http://idea.rpi.edu/heals/kb/usda#15065,http://idea.rpi.edu/heals/kb/usda#14390,0.531994,1,1.0,0.0
-711,4613,1280,http://idea.rpi.edu/heals/kb/usda#15033,http://idea.rpi.edu/heals/kb/usda#06149,0.531994,1,1.0,0.0
-712,4613,612,http://idea.rpi.edu/heals/kb/usda#15033,http://idea.rpi.edu/heals/kb/usda#03995,0.531994,1,1.0,0.0
-713,4613,1110,http://idea.rpi.edu/heals/kb/usda#15033,http://idea.rpi.edu/heals/kb/usda#05671,0.531994,1,1.0,0.0
-714,4613,6708,http://idea.rpi.edu/heals/kb/usda#15033,http://idea.rpi.edu/heals/kb/usda#20481,0.531994,1,1.0,0.0
-715,4613,5690,http://idea.rpi.edu/heals/kb/usda#15033,http://idea.rpi.edu/heals/kb/usda#18061,0.531994,1,1.0,0.0
-716,4611,3755,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#12039,0.531994,1,1.0,0.0
-717,4611,228,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#01276,0.531994,1,1.0,0.0
-718,4611,4655,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#15075,0.531994,1,1.0,0.0
-719,4611,5988,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#18439,0.531994,1,1.0,0.0
-720,4611,5992,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#18446,0.531994,1,1.0,0.0
-721,6612,3908,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#13068,0.9419225,1,1.0,0.0
-722,6612,2398,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#09267,0.9419225,1,1.0,0.0
-723,6612,3210,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#11366,0.9419225,1,1.0,0.0
-724,6612,3791,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#12115,0.9419225,1,1.0,0.0
-725,6612,1033,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#05316,0.9419225,1,1.0,0.0
-726,6598,6398,http://idea.rpi.edu/heals/kb/usda#20062,http://idea.rpi.edu/heals/kb/usda#19340,0.89230543,1,1.0,0.0
-727,6598,5325,http://idea.rpi.edu/heals/kb/usda#20062,http://idea.rpi.edu/heals/kb/usda#17121,0.89230543,1,1.0,0.0
-728,6598,4190,http://idea.rpi.edu/heals/kb/usda#20062,http://idea.rpi.edu/heals/kb/usda#13883,0.89230543,1,1.0,0.0
-729,6598,5071,http://idea.rpi.edu/heals/kb/usda#20062,http://idea.rpi.edu/heals/kb/usda#16336,0.89230543,1,1.0,0.0
-730,6598,164,http://idea.rpi.edu/heals/kb/usda#20062,http://idea.rpi.edu/heals/kb/usda#01189,0.89230543,1,1.0,0.0
-731,6612,993,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#05191,0.9419225,1,1.0,0.0
-732,6612,670,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#04518,0.6796811,1,1.0,0.0
-733,6612,4855,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#16016,0.9419225,1,1.0,0.0
-734,6612,5010,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#16215,0.9419225,1,1.0,0.0
-735,6612,2379,http://idea.rpi.edu/heals/kb/usda#20076,http://idea.rpi.edu/heals/kb/usda#09247,0.9419225,1,1.0,0.0
-736,6548,2556,http://idea.rpi.edu/heals/kb/usda#20004,http://idea.rpi.edu/heals/kb/usda#10024,0.531994,1,1.0,0.0
-737,6548,1834,http://idea.rpi.edu/heals/kb/usda#20004,http://idea.rpi.edu/heals/kb/usda#08013,0.531994,1,1.0,0.0
-738,6548,6567,http://idea.rpi.edu/heals/kb/usda#20004,http://idea.rpi.edu/heals/kb/usda#20025,0.531994,1,1.0,0.0
-739,6548,6263,http://idea.rpi.edu/heals/kb/usda#20004,http://idea.rpi.edu/heals/kb/usda#19156,0.531994,1,1.0,0.0
-740,6548,685,http://idea.rpi.edu/heals/kb/usda#20004,http://idea.rpi.edu/heals/kb/usda#04546,0.531994,1,1.0,0.0
-741,6618,3645,http://idea.rpi.edu/heals/kb/usda#20083,http://idea.rpi.edu/heals/kb/usda#11905,0.531994,1,1.0,0.0
-742,6618,1142,http://idea.rpi.edu/heals/kb/usda#20083,http://idea.rpi.edu/heals/kb/usda#05703,0.531994,1,1.0,0.0
-743,6618,675,http://idea.rpi.edu/heals/kb/usda#20083,http://idea.rpi.edu/heals/kb/usda#04531,0.531994,1,1.0,0.0
-744,6618,1710,http://idea.rpi.edu/heals/kb/usda#20083,http://idea.rpi.edu/heals/kb/usda#07230,0.531994,1,1.0,0.0
-745,6618,6637,http://idea.rpi.edu/heals/kb/usda#20083,http://idea.rpi.edu/heals/kb/usda#20105,0.531994,1,1.0,0.0
-746,6619,1570,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#06964,0.531994,1,1.0,0.0
-747,6619,2628,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#10093,0.531994,1,1.0,0.0
-748,6619,2876,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#10944,0.531994,1,1.0,0.0
-749,6619,5757,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#18160,0.531994,1,1.0,0.0
-750,6619,724,http://idea.rpi.edu/heals/kb/usda#20084,http://idea.rpi.edu/heals/kb/usda#04614,0.531994,1,1.0,0.0
-751,6555,1053,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#05345,0.531994,1,1.0,0.0
-752,6555,3050,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#11176,0.531994,1,1.0,0.0
-753,6555,2959,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#11045,0.531994,1,1.0,0.0
-754,6555,3223,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#11381,0.531994,1,1.0,0.0
-755,6555,3891,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#1267,0.531994,1,1.0,0.0
-756,6555,6642,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#20110,0.531994,1,1.0,0.0
-757,6555,5706,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#18082,0.531994,1,1.0,0.0
-758,6555,6316,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#19222,0.531994,1,1.0,0.0
-759,6555,1355,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#06285,0.531994,1,1.0,0.0
-760,6555,6537,http://idea.rpi.edu/heals/kb/usda#20012,http://idea.rpi.edu/heals/kb/usda#19911,0.531994,1,1.0,0.0
-761,4584,3585,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#11845,0.531994,1,1.0,0.0
-762,4584,2118,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#08646,0.531994,1,1.0,0.0
-763,4584,4640,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#15060,0.531994,1,1.0,0.0
-764,4584,6671,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#20142,0.531994,1,1.0,0.0
-765,4584,5706,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#18082,0.531994,1,1.0,0.0
-766,4584,4473,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#14384,0.531994,1,1.0,0.0
-767,4584,1437,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#06416,0.531994,1,1.0,0.0
-768,4584,3395,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#11618,0.531994,1,1.0,0.0
-769,4584,5209,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#17005,0.531994,1,1.0,0.0
-770,4584,3416,http://idea.rpi.edu/heals/kb/usda#15004,http://idea.rpi.edu/heals/kb/usda#11654,0.531994,1,1.0,0.0
-771,4690,4417,http://idea.rpi.edu/heals/kb/usda#15110,http://idea.rpi.edu/heals/kb/usda#14219,0.531994,1,1.0,0.0
-772,4690,6515,http://idea.rpi.edu/heals/kb/usda#15110,http://idea.rpi.edu/heals/kb/usda#19884,0.531994,1,1.0,0.0
-773,4690,4179,http://idea.rpi.edu/heals/kb/usda#15110,http://idea.rpi.edu/heals/kb/usda#13872,0.531994,1,1.0,0.0
-774,4690,1618,http://idea.rpi.edu/heals/kb/usda#15110,http://idea.rpi.edu/heals/kb/usda#07019,0.531994,1,1.0,0.0
-775,4690,2323,http://idea.rpi.edu/heals/kb/usda#15110,http://idea.rpi.edu/heals/kb/usda#09165,0.531994,1,1.0,0.0
-776,4611,2019,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#08462,0.531994,1,1.0,0.0
-777,4611,4725,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#15148,0.531994,1,1.0,0.0
-778,4611,4449,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#14315,0.531994,1,1.0,0.0
-779,4611,3871,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#12565,0.531994,1,1.0,0.0
-780,4611,4606,http://idea.rpi.edu/heals/kb/usda#15031,http://idea.rpi.edu/heals/kb/usda#15026,0.531994,1,1.0,0.0
-781,4706,5013,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#16222,0.531994,1,1.0,0.0
-782,4706,1785,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#07929,0.531994,1,1.0,0.0
-783,4706,4024,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#13420,0.531994,1,1.0,0.0
-784,4706,933,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#05128,0.531994,1,1.0,0.0
-785,4706,5723,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#18107,0.531994,1,1.0,0.0
-786,4706,2512,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#09503,0.531994,1,1.0,0.0
-787,4706,759,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#04658,0.531994,1,1.0,0.0
-788,4706,1606,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#07005,0.531994,1,1.0,0.0
-789,4706,275,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#02038,0.531994,1,1.0,0.0
-790,4706,62,http://idea.rpi.edu/heals/kb/usda#15129,http://idea.rpi.edu/heals/kb/usda#01068,0.531994,1,1.0,0.0
-791,3321,1179,http://idea.rpi.edu/heals/kb/usda#11503,http://idea.rpi.edu/heals/kb/usda#05741,0.531994,1,1.0,0.0
-792,3321,4483,http://idea.rpi.edu/heals/kb/usda#11503,http://idea.rpi.edu/heals/kb/usda#14412,0.531994,1,1.0,0.0
-793,3321,1203,http://idea.rpi.edu/heals/kb/usda#11503,http://idea.rpi.edu/heals/kb/usda#06017,0.531994,1,1.0,0.0
-794,3321,5942,http://idea.rpi.edu/heals/kb/usda#11503,http://idea.rpi.edu/heals/kb/usda#18374,0.531994,1,1.0,0.0
-795,3321,171,http://idea.rpi.edu/heals/kb/usda#11503,http://idea.rpi.edu/heals/kb/usda#01200,0.531994,1,1.0,0.0
-796,6557,4526,http://idea.rpi.edu/heals/kb/usda#20014,http://idea.rpi.edu/heals/kb/usda#14550,0.7838975,1,1.0,0.0
-797,6557,4115,http://idea.rpi.edu/heals/kb/usda#20014,http://idea.rpi.edu/heals/kb/usda#13806,0.7838975,1,1.0,0.0
-798,6557,3900,http://idea.rpi.edu/heals/kb/usda#20014,http://idea.rpi.edu/heals/kb/usda#13019,0.7838975,1,1.0,0.0
-799,6557,4252,http://idea.rpi.edu/heals/kb/usda#20014,http://idea.rpi.edu/heals/kb/usda#13954,0.7838975,1,1.0,0.0
-800,6557,3106,http://idea.rpi.edu/heals/kb/usda#20014,http://idea.rpi.edu/heals/kb/usda#11242,0.7838975,1,1.0,0.0
-801,2924,4241,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#13934,0.531994,1,1.0,0.0
-802,2924,883,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#05078,0.531994,1,1.0,0.0
-803,2924,216,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#01256,0.531994,1,1.0,0.0
-804,2924,328,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#03050,0.531994,1,1.0,0.0
-805,2924,1768,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#07912,0.531994,1,1.0,0.0
-806,3406,5348,http://idea.rpi.edu/heals/kb/usda#11640,http://idea.rpi.edu/heals/kb/usda#17144,0.531994,1,1.0,0.0
-807,3406,5306,http://idea.rpi.edu/heals/kb/usda#11640,http://idea.rpi.edu/heals/kb/usda#17102,0.531994,1,1.0,0.0
-808,3406,58,http://idea.rpi.edu/heals/kb/usda#11640,http://idea.rpi.edu/heals/kb/usda#01060,0.531994,1,1.0,0.0
-809,3406,2798,http://idea.rpi.edu/heals/kb/usda#11640,http://idea.rpi.edu/heals/kb/usda#10867,0.531994,1,1.0,0.0
-810,3406,6547,http://idea.rpi.edu/heals/kb/usda#11640,http://idea.rpi.edu/heals/kb/usda#20003,0.531994,1,1.0,0.0
-811,3146,5821,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#18232,0.531994,1,1.0,0.0
-812,3146,2391,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#09260,0.531994,1,1.0,0.0
-813,3146,2221,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#09043,0.531994,1,1.0,0.0
-814,3146,3362,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#11569,0.531994,1,1.0,0.0
-815,3146,5512,http://idea.rpi.edu/heals/kb/usda#11282,http://idea.rpi.edu/heals/kb/usda#17309,0.531994,1,1.0,0.0
-816,3037,4099,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#13649,0.531994,1,1.0,0.0
-817,3037,3001,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#11109,0.531994,1,1.0,0.0
-818,3037,641,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#04044,0.531994,1,1.0,0.0
-819,3037,4237,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#13930,0.531994,1,1.0,0.0
-820,3037,4925,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#16087,0.531994,1,1.0,0.0
-821,3037,5048,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#16262,0.531994,1,1.0,0.0
-822,3037,1947,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#08221,0.531994,1,1.0,0.0
-823,3037,4088,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#13501,0.531994,1,1.0,0.0
-824,3037,5496,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#17293,0.531994,1,1.0,0.0
-825,3037,4920,http://idea.rpi.edu/heals/kb/usda#11156,http://idea.rpi.edu/heals/kb/usda#16082,0.531994,1,1.0,0.0
-826,4751,5970,http://idea.rpi.edu/heals/kb/usda#15175,http://idea.rpi.edu/heals/kb/usda#18421,0.531994,1,1.0,0.0
-827,4751,1430,http://idea.rpi.edu/heals/kb/usda#15175,http://idea.rpi.edu/heals/kb/usda#06409,0.531994,1,1.0,0.0
-828,4751,5589,http://idea.rpi.edu/heals/kb/usda#15175,http://idea.rpi.edu/heals/kb/usda#17386,0.531994,1,1.0,0.0
-829,4751,6450,http://idea.rpi.edu/heals/kb/usda#15175,http://idea.rpi.edu/heals/kb/usda#19424,0.531994,1,1.0,0.0
-830,4751,6655,http://idea.rpi.edu/heals/kb/usda#15175,http://idea.rpi.edu/heals/kb/usda#20124,0.531994,1,1.0,0.0
-831,6603,2878,http://idea.rpi.edu/heals/kb/usda#20067,http://idea.rpi.edu/heals/kb/usda#10946,0.531994,1,1.0,0.0
-832,6603,6365,http://idea.rpi.edu/heals/kb/usda#20067,http://idea.rpi.edu/heals/kb/usda#19300,0.531994,1,1.0,0.0
-833,6603,3340,http://idea.rpi.edu/heals/kb/usda#20067,http://idea.rpi.edu/heals/kb/usda#11527,0.531994,1,1.0,0.0
-834,6603,1524,http://idea.rpi.edu/heals/kb/usda#20067,http://idea.rpi.edu/heals/kb/usda#06602,0.531994,1,1.0,0.0
-835,6603,5450,http://idea.rpi.edu/heals/kb/usda#20067,http://idea.rpi.edu/heals/kb/usda#17246,0.531994,1,1.0,0.0
-836,3029,1403,http://idea.rpi.edu/heals/kb/usda#11147,http://idea.rpi.edu/heals/kb/usda#06367,0.531994,1,1.0,0.0
-837,3029,1066,http://idea.rpi.edu/heals/kb/usda#11147,http://idea.rpi.edu/heals/kb/usda#05361,0.531994,1,1.0,0.0
-838,3029,3469,http://idea.rpi.edu/heals/kb/usda#11147,http://idea.rpi.edu/heals/kb/usda#11729,0.531994,1,1.0,0.0
-839,3029,2622,http://idea.rpi.edu/heals/kb/usda#11147,http://idea.rpi.edu/heals/kb/usda#10085,0.531994,1,1.0,0.0
-840,3029,4369,http://idea.rpi.edu/heals/kb/usda#11147,http://idea.rpi.edu/heals/kb/usda#14130,0.531994,1,1.0,0.0
-841,3695,1263,http://idea.rpi.edu/heals/kb/usda#11959,http://idea.rpi.edu/heals/kb/usda#06117,0.531994,1,1.0,0.0
-842,3695,5367,http://idea.rpi.edu/heals/kb/usda#11959,http://idea.rpi.edu/heals/kb/usda#17163,0.531994,1,1.0,0.0
-843,3695,2539,http://idea.rpi.edu/heals/kb/usda#11959,http://idea.rpi.edu/heals/kb/usda#10009,0.531994,1,1.0,0.0
-844,3695,1124,http://idea.rpi.edu/heals/kb/usda#11959,http://idea.rpi.edu/heals/kb/usda#05685,0.531994,1,1.0,0.0
-845,3695,1018,http://idea.rpi.edu/heals/kb/usda#11959,http://idea.rpi.edu/heals/kb/usda#05301,0.531994,1,1.0,0.0
-846,2924,3052,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#11178,0.531994,1,1.0,0.0
-847,2924,3374,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#11587,0.531994,1,1.0,0.0
-848,2924,3967,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#13353,0.531994,1,1.0,0.0
-849,2924,4027,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#13423,0.531994,1,1.0,0.0
-850,2924,5633,http://idea.rpi.edu/heals/kb/usda#11003,http://idea.rpi.edu/heals/kb/usda#17430,0.531994,1,1.0,0.0
-851,3390,1713,http://idea.rpi.edu/heals/kb/usda#11613,http://idea.rpi.edu/heals/kb/usda#07233,0.531994,1,1.0,0.0
-852,3390,2158,http://idea.rpi.edu/heals/kb/usda#11613,http://idea.rpi.edu/heals/kb/usda#08688,0.531994,1,1.0,0.0
-853,3390,5056,http://idea.rpi.edu/heals/kb/usda#11613,http://idea.rpi.edu/heals/kb/usda#16278,0.531994,1,1.0,0.0
-854,3390,4030,http://idea.rpi.edu/heals/kb/usda#11613,http://idea.rpi.edu/heals/kb/usda#13426,0.531994,1,1.0,0.0
-855,3390,4988,http://idea.rpi.edu/heals/kb/usda#11613,http://idea.rpi.edu/heals/kb/usda#16161,0.531994,1,1.0,0.0
-856,3079,3625,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#11885,0.531994,1,1.0,0.0
-857,3079,5971,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#18422,0.531994,1,1.0,0.0
-858,3079,4362,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#14117,0.531994,1,1.0,0.0
-859,3079,6122,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#18991,0.531994,1,1.0,0.0
-860,3079,2547,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#10016,0.531994,1,1.0,0.0
-861,6569,4874,http://idea.rpi.edu/heals/kb/usda#20028,http://idea.rpi.edu/heals/kb/usda#16035,0.531994,1,1.0,0.0
-862,6569,2986,http://idea.rpi.edu/heals/kb/usda#20028,http://idea.rpi.edu/heals/kb/usda#11092,0.531994,1,1.0,0.0
-863,6569,4902,http://idea.rpi.edu/heals/kb/usda#20028,http://idea.rpi.edu/heals/kb/usda#16063,0.531994,1,1.0,0.0
-864,6569,2499,http://idea.rpi.edu/heals/kb/usda#20028,http://idea.rpi.edu/heals/kb/usda#09443,0.531994,1,1.0,0.0
-865,6569,845,http://idea.rpi.edu/heals/kb/usda#20028,http://idea.rpi.edu/heals/kb/usda#05040,0.531994,1,1.0,0.0
-866,6576,930,http://idea.rpi.edu/heals/kb/usda#20035,http://idea.rpi.edu/heals/kb/usda#05125,0.531994,1,1.0,0.0
-867,6576,1283,http://idea.rpi.edu/heals/kb/usda#20035,http://idea.rpi.edu/heals/kb/usda#06152,0.531994,1,1.0,0.0
-868,6576,1291,http://idea.rpi.edu/heals/kb/usda#20035,http://idea.rpi.edu/heals/kb/usda#06169,0.531994,1,1.0,0.0
-869,6576,6288,http://idea.rpi.edu/heals/kb/usda#20035,http://idea.rpi.edu/heals/kb/usda#19187,0.531994,1,1.0,0.0
-870,6576,1979,http://idea.rpi.edu/heals/kb/usda#20035,http://idea.rpi.edu/heals/kb/usda#08316,0.531994,1,1.0,0.0
-871,3079,406,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#03162,0.531994,1,1.0,0.0
-872,3079,839,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#05034,0.531994,1,1.0,0.0
-873,3079,2252,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#09081,0.531994,1,1.0,0.0
-874,3079,2238,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#09065,0.531994,1,1.0,0.0
-875,3079,1437,http://idea.rpi.edu/heals/kb/usda#11213,http://idea.rpi.edu/heals/kb/usda#06416,0.531994,1,1.0,0.0
-876,4732,5080,http://idea.rpi.edu/heals/kb/usda#15155,http://idea.rpi.edu/heals/kb/usda#16350,0.531994,1,1.0,0.0
-877,4732,5832,http://idea.rpi.edu/heals/kb/usda#15155,http://idea.rpi.edu/heals/kb/usda#18244,0.531994,1,1.0,0.0
-878,4732,1934,http://idea.rpi.edu/heals/kb/usda#15155,http://idea.rpi.edu/heals/kb/usda#08192,0.531994,1,1.0,0.0
-879,4732,6178,http://idea.rpi.edu/heals/kb/usda#15155,http://idea.rpi.edu/heals/kb/usda#19065,0.531994,1,1.0,0.0
-880,4732,568,http://idea.rpi.edu/heals/kb/usda#15155,http://idea.rpi.edu/heals/kb/usda#03938,0.531994,1,1.0,0.0
-881,3384,1928,http://idea.rpi.edu/heals/kb/usda#11601,http://idea.rpi.edu/heals/kb/usda#08177,0.531994,1,1.0,0.0
-882,3384,4895,http://idea.rpi.edu/heals/kb/usda#11601,http://idea.rpi.edu/heals/kb/usda#16056,0.04924987,0,1.0,-1.0
-883,3384,311,http://idea.rpi.edu/heals/kb/usda#11601,http://idea.rpi.edu/heals/kb/usda#03012,0.531994,1,1.0,0.0
-884,3384,5285,http://idea.rpi.edu/heals/kb/usda#11601,http://idea.rpi.edu/heals/kb/usda#17081,0.531994,1,1.0,0.0
-885,3384,5272,http://idea.rpi.edu/heals/kb/usda#11601,http://idea.rpi.edu/heals/kb/usda#17068,0.531994,1,1.0,0.0
-886,4722,5816,http://idea.rpi.edu/heals/kb/usda#15145,http://idea.rpi.edu/heals/kb/usda#18227,0.531994,1,1.0,0.0
-887,4722,6213,http://idea.rpi.edu/heals/kb/usda#15145,http://idea.rpi.edu/heals/kb/usda#19104,0.531994,1,1.0,0.0
-888,4722,328,http://idea.rpi.edu/heals/kb/usda#15145,http://idea.rpi.edu/heals/kb/usda#03050,0.531994,1,1.0,0.0
-889,4722,4622,http://idea.rpi.edu/heals/kb/usda#15145,http://idea.rpi.edu/heals/kb/usda#15042,0.531994,1,1.0,0.0
-890,4722,1022,http://idea.rpi.edu/heals/kb/usda#15145,http://idea.rpi.edu/heals/kb/usda#05305,0.531994,1,1.0,0.0
-891,3674,4287,http://idea.rpi.edu/heals/kb/usda#11935,http://idea.rpi.edu/heals/kb/usda#14017,0.8635318,1,1.0,0.0
-892,3674,6318,http://idea.rpi.edu/heals/kb/usda#11935,http://idea.rpi.edu/heals/kb/usda#19225,0.8635318,1,1.0,0.0
-893,3674,4009,http://idea.rpi.edu/heals/kb/usda#11935,http://idea.rpi.edu/heals/kb/usda#13401,0.8635318,1,1.0,0.0
-894,3674,2275,http://idea.rpi.edu/heals/kb/usda#11935,http://idea.rpi.edu/heals/kb/usda#09104,0.8635318,1,1.0,0.0
-895,3674,6603,http://idea.rpi.edu/heals/kb/usda#11935,http://idea.rpi.edu/heals/kb/usda#20067,0.8635318,1,1.0,0.0
-896,1286,1007,http://idea.rpi.edu/heals/kb/usda#06164,http://idea.rpi.edu/heals/kb/usda#05277,0.8409912,1,1.0,0.0
-897,1286,6555,http://idea.rpi.edu/heals/kb/usda#06164,http://idea.rpi.edu/heals/kb/usda#20012,0.8409912,1,1.0,0.0
-898,1286,5325,http://idea.rpi.edu/heals/kb/usda#06164,http://idea.rpi.edu/heals/kb/usda#17121,0.8409912,1,1.0,0.0
-899,1286,6500,http://idea.rpi.edu/heals/kb/usda#06164,http://idea.rpi.edu/heals/kb/usda#19867,0.8409912,1,1.0,0.0
-900,1286,2867,http://idea.rpi.edu/heals/kb/usda#06164,http://idea.rpi.edu/heals/kb/usda#10935,0.8409912,1,1.0,0.0
-901,4871,5115,http://idea.rpi.edu/heals/kb/usda#16032,http://idea.rpi.edu/heals/kb/usda#16421,0.9431294,1,1.0,0.0
-902,4871,71,http://idea.rpi.edu/heals/kb/usda#16032,http://idea.rpi.edu/heals/kb/usda#01078,0.9431294,1,1.0,0.0
-903,4871,5525,http://idea.rpi.edu/heals/kb/usda#16032,http://idea.rpi.edu/heals/kb/usda#17322,0.9431294,1,1.0,0.0
-904,4871,2903,http://idea.rpi.edu/heals/kb/usda#16032,http://idea.rpi.edu/heals/kb/usda#10976,0.9431294,1,1.0,0.0
-905,4871,4543,http://idea.rpi.edu/heals/kb/usda#16032,http://idea.rpi.edu/heals/kb/usda#14611,0.9431294,1,1.0,0.0
-906,4961,3535,http://idea.rpi.edu/heals/kb/usda#16124,http://idea.rpi.edu/heals/kb/usda#11794,0.531994,1,1.0,0.0
-907,4961,2026,http://idea.rpi.edu/heals/kb/usda#16124,http://idea.rpi.edu/heals/kb/usda#08484,0.531994,1,1.0,0.0
-908,4961,1012,http://idea.rpi.edu/heals/kb/usda#16124,http://idea.rpi.edu/heals/kb/usda#05292,0.531994,1,1.0,0.0
-909,4961,523,http://idea.rpi.edu/heals/kb/usda#16124,http://idea.rpi.edu/heals/kb/usda#03825,0.531994,1,1.0,0.0
-910,4961,6707,http://idea.rpi.edu/heals/kb/usda#16124,http://idea.rpi.edu/heals/kb/usda#2048,0.531994,1,1.0,0.0
-911,4965,3387,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#11604,0.531994,1,1.0,0.0
-912,4965,4724,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#15147,0.531994,1,1.0,0.0
-913,4965,4685,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#15105,0.531994,1,1.0,0.0
-914,4965,4068,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#13479,0.531994,1,1.0,0.0
-915,4965,2723,http://idea.rpi.edu/heals/kb/usda#16128,http://idea.rpi.edu/heals/kb/usda#10206,0.531994,1,1.0,0.0
-916,4590,4471,http://idea.rpi.edu/heals/kb/usda#15010,http://idea.rpi.edu/heals/kb/usda#14376,0.531994,1,1.0,0.0
-917,4590,419,http://idea.rpi.edu/heals/kb/usda#15010,http://idea.rpi.edu/heals/kb/usda#03175,0.531994,1,1.0,0.0
-918,4590,4260,http://idea.rpi.edu/heals/kb/usda#15010,http://idea.rpi.edu/heals/kb/usda#13965,0.531994,1,1.0,0.0
-919,4590,43,http://idea.rpi.edu/heals/kb/usda#15010,http://idea.rpi.edu/heals/kb/usda#01044,0.531994,1,1.0,0.0
-920,4590,1797,http://idea.rpi.edu/heals/kb/usda#15010,http://idea.rpi.edu/heals/kb/usda#07941,0.531994,1,1.0,0.0
-921,4695,3609,http://idea.rpi.edu/heals/kb/usda#15115,http://idea.rpi.edu/heals/kb/usda#11867,0.531994,1,1.0,0.0
-922,4695,5807,http://idea.rpi.edu/heals/kb/usda#15115,http://idea.rpi.edu/heals/kb/usda#18218,0.531994,1,1.0,0.0
-923,4695,612,http://idea.rpi.edu/heals/kb/usda#15115,http://idea.rpi.edu/heals/kb/usda#03995,0.531994,1,1.0,0.0
-924,4695,4106,http://idea.rpi.edu/heals/kb/usda#15115,http://idea.rpi.edu/heals/kb/usda#13797,0.531994,1,1.0,0.0
-925,4695,6435,http://idea.rpi.edu/heals/kb/usda#15115,http://idea.rpi.edu/heals/kb/usda#19408,0.531994,1,1.0,0.0
-926,3903,6592,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#20053,0.7790949,1,1.0,0.0
-927,3903,6587,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#20048,0.7790949,1,1.0,0.0
-928,3903,1128,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#05689,0.7790949,1,1.0,0.0
-929,3903,3213,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#11369,0.7790949,1,1.0,0.0
-930,3903,5144,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#16519,0.7790949,1,1.0,0.0
-931,1691,5313,http://idea.rpi.edu/heals/kb/usda#07209,http://idea.rpi.edu/heals/kb/usda#17109,0.531994,1,1.0,0.0
-932,1691,6446,http://idea.rpi.edu/heals/kb/usda#07209,http://idea.rpi.edu/heals/kb/usda#19420,0.531994,1,1.0,0.0
-933,1691,3666,http://idea.rpi.edu/heals/kb/usda#07209,http://idea.rpi.edu/heals/kb/usda#11927,0.531994,1,1.0,0.0
-934,1691,4356,http://idea.rpi.edu/heals/kb/usda#07209,http://idea.rpi.edu/heals/kb/usda#14107,0.531994,1,1.0,0.0
-935,1691,3317,http://idea.rpi.edu/heals/kb/usda#07209,http://idea.rpi.edu/heals/kb/usda#11497,0.531994,1,1.0,0.0
-936,3903,2557,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#10025,0.7790949,1,1.0,0.0
-937,3903,3186,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#11334,0.7790949,1,1.0,0.0
-938,3903,4342,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#14086,0.7790949,1,1.0,0.0
-939,3903,4885,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#16046,0.7790949,1,1.0,0.0
-940,3903,436,http://idea.rpi.edu/heals/kb/usda#13047,http://idea.rpi.edu/heals/kb/usda#03195,0.7790949,1,1.0,0.0
-941,131,2433,http://idea.rpi.edu/heals/kb/usda#01144,http://idea.rpi.edu/heals/kb/usda#09306,0.8470972,1,1.0,0.0
-942,131,3561,http://idea.rpi.edu/heals/kb/usda#01144,http://idea.rpi.edu/heals/kb/usda#11819,0.8470972,1,1.0,0.0
-943,131,3959,http://idea.rpi.edu/heals/kb/usda#01144,http://idea.rpi.edu/heals/kb/usda#13344,0.8470972,1,1.0,0.0
-944,131,5155,http://idea.rpi.edu/heals/kb/usda#01144,http://idea.rpi.edu/heals/kb/usda#16532,0.8470972,1,1.0,0.0
-945,131,4960,http://idea.rpi.edu/heals/kb/usda#01144,http://idea.rpi.edu/heals/kb/usda#16123,0.8470972,1,1.0,0.0
-946,5239,6178,http://idea.rpi.edu/heals/kb/usda#17035,http://idea.rpi.edu/heals/kb/usda#19065,0.531994,1,1.0,0.0
-947,5239,5143,http://idea.rpi.edu/heals/kb/usda#17035,http://idea.rpi.edu/heals/kb/usda#16518,0.531994,1,1.0,0.0
-948,5239,2804,http://idea.rpi.edu/heals/kb/usda#17035,http://idea.rpi.edu/heals/kb/usda#10873,0.531994,1,1.0,0.0
-949,5239,3357,http://idea.rpi.edu/heals/kb/usda#17035,http://idea.rpi.edu/heals/kb/usda#11564,0.531994,1,1.0,0.0
-950,5239,2322,http://idea.rpi.edu/heals/kb/usda#17035,http://idea.rpi.edu/heals/kb/usda#09164,0.531994,1,1.0,0.0
-951,3115,4945,http://idea.rpi.edu/heals/kb/usda#11250,http://idea.rpi.edu/heals/kb/usda#16108,0.531994,1,1.0,0.0
-952,3115,194,http://idea.rpi.edu/heals/kb/usda#11250,http://idea.rpi.edu/heals/kb/usda#01226,0.531994,1,1.0,0.0
-953,3115,389,http://idea.rpi.edu/heals/kb/usda#11250,http://idea.rpi.edu/heals/kb/usda#03141,0.531994,1,1.0,0.0
-954,3115,2731,http://idea.rpi.edu/heals/kb/usda#11250,http://idea.rpi.edu/heals/kb/usda#10214,0.531994,1,1.0,0.0
-955,3115,5389,http://idea.rpi.edu/heals/kb/usda#11250,http://idea.rpi.edu/heals/kb/usda#17185,0.531994,1,1.0,0.0
-956,3019,326,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#03048,0.531994,1,1.0,0.0
-957,3019,1544,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#06725,0.531994,1,1.0,0.0
-958,3019,1085,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#05644,0.531994,1,1.0,0.0
-959,3019,1353,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#06256,0.531994,1,1.0,0.0
-960,3019,738,http://idea.rpi.edu/heals/kb/usda#11134,http://idea.rpi.edu/heals/kb/usda#04635,0.531994,1,1.0,0.0
-961,264,708,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#04589,0.90400046,1,1.0,0.0
-962,264,2502,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#09446,0.90400046,1,1.0,0.0
-963,264,6265,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#19159,0.90400046,1,1.0,0.0
-964,264,298,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#02073,0.90400046,1,1.0,0.0
-965,264,2699,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#10182,0.90400046,1,1.0,0.0
-966,264,4129,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#13820,0.90400046,1,1.0,0.0
-967,264,1585,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#06982,0.90400046,1,1.0,0.0
-968,264,6117,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#18986,0.90400046,1,1.0,0.0
-969,264,6538,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#19912,0.90400046,1,1.0,0.0
-970,264,6156,http://idea.rpi.edu/heals/kb/usda#02027,http://idea.rpi.edu/heals/kb/usda#19039,0.90400046,1,1.0,0.0
-971,262,429,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#03188,0.88127315,1,1.0,0.0
-972,262,4812,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#15236,0.88127315,1,1.0,0.0
-973,262,6114,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#18983,0.88127315,1,1.0,0.0
-974,262,4636,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#15056,0.88127315,1,1.0,0.0
-975,262,2586,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#10051,0.88127315,1,1.0,0.0
-976,280,1714,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#07234,0.86929345,1,1.0,0.0
-977,280,5154,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#16531,0.86929345,1,1.0,0.0
-978,280,712,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#04593,0.86929345,1,1.0,0.0
-979,280,6359,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#19292,0.86929345,1,1.0,0.0
-980,280,4508,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#14461,0.86929345,1,1.0,0.0
-981,260,1044,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#05335,0.531994,1,1.0,0.0
-982,260,6676,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#20310,0.531994,1,1.0,0.0
-983,260,4941,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#16103,0.531994,1,1.0,0.0
-984,260,418,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#03174,0.531994,1,1.0,0.0
-985,260,1196,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#06010,0.531994,1,1.0,0.0
-986,292,2819,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#10887,0.531994,1,1.0,0.0
-987,292,6687,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#20330,0.531994,1,1.0,0.0
-988,292,5791,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#18200,0.531994,1,1.0,0.0
-989,292,5650,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#18011,0.531994,1,1.0,0.0
-990,292,3595,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#11854,0.531994,1,1.0,0.0
-991,292,5906,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#18333,0.531994,1,1.0,0.0
-992,292,4425,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#14241,0.531994,1,1.0,0.0
-993,292,4119,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#13810,0.531994,1,1.0,0.0
-994,292,2605,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#10069,0.531994,1,1.0,0.0
-995,292,697,http://idea.rpi.edu/heals/kb/usda#02063,http://idea.rpi.edu/heals/kb/usda#04574,0.531994,1,1.0,0.0
-996,3403,6092,http://idea.rpi.edu/heals/kb/usda#11632,http://idea.rpi.edu/heals/kb/usda#18961,0.7723344,1,1.0,0.0
-997,3403,5490,http://idea.rpi.edu/heals/kb/usda#11632,http://idea.rpi.edu/heals/kb/usda#17287,0.7723344,1,1.0,0.0
-998,3403,4762,http://idea.rpi.edu/heals/kb/usda#11632,http://idea.rpi.edu/heals/kb/usda#15186,0.7723344,1,1.0,0.0
-999,3403,3010,http://idea.rpi.edu/heals/kb/usda#11632,http://idea.rpi.edu/heals/kb/usda#11120,0.7723344,1,1.0,0.0
-1000,3403,2843,http://idea.rpi.edu/heals/kb/usda#11632,http://idea.rpi.edu/heals/kb/usda#10911,0.7723344,1,1.0,0.0
-1001,246,3452,http://idea.rpi.edu/heals/kb/usda#02009,http://idea.rpi.edu/heals/kb/usda#11712,0.8167496,1,1.0,0.0
-1002,246,3156,http://idea.rpi.edu/heals/kb/usda#02009,http://idea.rpi.edu/heals/kb/usda#11292,0.54714197,1,1.0,0.0
-1003,246,5512,http://idea.rpi.edu/heals/kb/usda#02009,http://idea.rpi.edu/heals/kb/usda#17309,0.8167496,1,1.0,0.0
-1004,246,1144,http://idea.rpi.edu/heals/kb/usda#02009,http://idea.rpi.edu/heals/kb/usda#05705,0.8167496,1,1.0,0.0
-1005,246,4327,http://idea.rpi.edu/heals/kb/usda#02009,http://idea.rpi.edu/heals/kb/usda#14067,0.8167496,1,1.0,0.0
-1006,4853,2308,http://idea.rpi.edu/heals/kb/usda#16014,http://idea.rpi.edu/heals/kb/usda#09145,0.531994,1,1.0,0.0
-1007,4853,3181,http://idea.rpi.edu/heals/kb/usda#16014,http://idea.rpi.edu/heals/kb/usda#11324,0.531994,1,1.0,0.0
-1008,4853,2076,http://idea.rpi.edu/heals/kb/usda#16014,http://idea.rpi.edu/heals/kb/usda#08587,0.531994,1,1.0,0.0
-1009,4853,178,http://idea.rpi.edu/heals/kb/usda#16014,http://idea.rpi.edu/heals/kb/usda#01209,0.531994,1,1.0,0.0
-1010,4853,4157,http://idea.rpi.edu/heals/kb/usda#16014,http://idea.rpi.edu/heals/kb/usda#13850,0.531994,1,1.0,0.0
-1011,247,1907,http://idea.rpi.edu/heals/kb/usda#02010,http://idea.rpi.edu/heals/kb/usda#08132,0.8262614,1,1.0,0.0
-1012,247,982,http://idea.rpi.edu/heals/kb/usda#02010,http://idea.rpi.edu/heals/kb/usda#05179,0.8262614,1,1.0,0.0
-1013,247,1299,http://idea.rpi.edu/heals/kb/usda#02010,http://idea.rpi.edu/heals/kb/usda#06179,0.8262614,1,1.0,0.0
-1014,247,3458,http://idea.rpi.edu/heals/kb/usda#02010,http://idea.rpi.edu/heals/kb/usda#11718,0.8262614,1,1.0,0.0
-1015,247,2551,http://idea.rpi.edu/heals/kb/usda#02010,http://idea.rpi.edu/heals/kb/usda#1002,0.8262614,1,1.0,0.0
-1016,262,6133,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#19004,0.88127315,1,1.0,0.0
-1017,262,3024,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#11141,0.88127315,1,1.0,0.0
-1018,262,6524,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#19896,0.88127315,1,1.0,0.0
-1019,262,3094,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#11231,0.88127315,1,1.0,0.0
-1020,262,4849,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#16008,0.88127315,1,1.0,0.0
-1021,262,1044,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#05335,0.88127315,1,1.0,0.0
-1022,262,4538,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#14605,0.88127315,1,1.0,0.0
-1023,262,2586,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#10051,0.88127315,1,1.0,0.0
-1024,262,1881,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#08087,0.88127315,1,1.0,0.0
-1025,262,4026,http://idea.rpi.edu/heals/kb/usda#02025,http://idea.rpi.edu/heals/kb/usda#13422,0.88127315,1,1.0,0.0
-1026,285,823,http://idea.rpi.edu/heals/kb/usda#02049,http://idea.rpi.edu/heals/kb/usda#05018,0.531994,1,1.0,0.0
-1027,285,63,http://idea.rpi.edu/heals/kb/usda#02049,http://idea.rpi.edu/heals/kb/usda#01069,0.531994,1,1.0,0.0
-1028,285,4876,http://idea.rpi.edu/heals/kb/usda#02049,http://idea.rpi.edu/heals/kb/usda#16037,0.531994,1,1.0,0.0
-1029,285,2183,http://idea.rpi.edu/heals/kb/usda#02049,http://idea.rpi.edu/heals/kb/usda#09005,0.531994,1,1.0,0.0
-1030,285,4545,http://idea.rpi.edu/heals/kb/usda#02049,http://idea.rpi.edu/heals/kb/usda#14613,0.531994,1,1.0,0.0
-1031,280,2815,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#10883,0.86929345,1,1.0,0.0
-1032,280,5927,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#18357,0.86929345,1,1.0,0.0
-1033,280,1431,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#06410,0.86929345,1,1.0,0.0
-1034,280,278,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#02042,0.86929345,1,1.0,0.0
-1035,280,209,http://idea.rpi.edu/heals/kb/usda#02044,http://idea.rpi.edu/heals/kb/usda#01244,0.05635187,0,1.0,-1.0
-1036,260,1518,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#06596,0.531994,1,1.0,0.0
-1037,260,3457,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#11717,0.531994,1,1.0,0.0
-1038,260,2139,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#08669,0.531994,1,1.0,0.0
-1039,260,6539,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#19913,0.531994,1,1.0,0.0
-1040,260,748,http://idea.rpi.edu/heals/kb/usda#02023,http://idea.rpi.edu/heals/kb/usda#04646,0.531994,1,1.0,0.0
-1041,54,4990,http://idea.rpi.edu/heals/kb/usda#01056,http://idea.rpi.edu/heals/kb/usda#16163,0.89100516,1,1.0,0.0
-1042,54,6178,http://idea.rpi.edu/heals/kb/usda#01056,http://idea.rpi.edu/heals/kb/usda#19065,0.89100516,1,1.0,0.0
-1043,54,5664,http://idea.rpi.edu/heals/kb/usda#01056,http://idea.rpi.edu/heals/kb/usda#18028,0.89100516,1,1.0,0.0
-1044,54,3269,http://idea.rpi.edu/heals/kb/usda#01056,http://idea.rpi.edu/heals/kb/usda#11437,0.89100516,1,1.0,0.0
-1045,54,2320,http://idea.rpi.edu/heals/kb/usda#01056,http://idea.rpi.edu/heals/kb/usda#09161,0.89100516,1,1.0,0.0
-1046,1584,320,http://idea.rpi.edu/heals/kb/usda#06981,http://idea.rpi.edu/heals/kb/usda#03042,0.531994,1,1.0,0.0
-1047,1584,6602,http://idea.rpi.edu/heals/kb/usda#06981,http://idea.rpi.edu/heals/kb/usda#20066,0.15695679,0,1.0,-1.0
-1048,1584,1787,http://idea.rpi.edu/heals/kb/usda#06981,http://idea.rpi.edu/heals/kb/usda#07931,0.531994,1,1.0,0.0
-1049,1584,1769,http://idea.rpi.edu/heals/kb/usda#06981,http://idea.rpi.edu/heals/kb/usda#07913,0.531994,1,1.0,0.0
-1050,1584,6274,http://idea.rpi.edu/heals/kb/usda#06981,http://idea.rpi.edu/heals/kb/usda#19169,0.531994,1,1.0,0.0
-1051,1629,2016,http://idea.rpi.edu/heals/kb/usda#07030,http://idea.rpi.edu/heals/kb/usda#08452,0.531994,1,1.0,0.0
-1052,1629,1564,http://idea.rpi.edu/heals/kb/usda#07030,http://idea.rpi.edu/heals/kb/usda#06958,0.531994,1,1.0,0.0
-1053,1629,5901,http://idea.rpi.edu/heals/kb/usda#07030,http://idea.rpi.edu/heals/kb/usda#18325,0.531994,1,1.0,0.0
-1054,1629,876,http://idea.rpi.edu/heals/kb/usda#07030,http://idea.rpi.edu/heals/kb/usda#05071,0.531994,1,1.0,0.0
-1055,1629,1282,http://idea.rpi.edu/heals/kb/usda#07030,http://idea.rpi.edu/heals/kb/usda#06151,0.531994,1,1.0,0.0
-1056,2429,329,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#03051,0.531994,1,1.0,0.0
-1057,2429,5254,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#17050,0.531994,1,1.0,0.0
-1058,2429,2012,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#08444,0.531994,1,1.0,0.0
-1059,2429,3151,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#11287,0.531994,1,1.0,0.0
-1060,2429,3608,http://idea.rpi.edu/heals/kb/usda#09299,http://idea.rpi.edu/heals/kb/usda#11866,0.531994,1,1.0,0.0
-1061,259,5325,http://idea.rpi.edu/heals/kb/usda#02022,http://idea.rpi.edu/heals/kb/usda#17121,0.6772935,1,1.0,0.0
-1062,259,5670,http://idea.rpi.edu/heals/kb/usda#02022,http://idea.rpi.edu/heals/kb/usda#18036,0.6772935,1,1.0,0.0
-1063,259,6215,http://idea.rpi.edu/heals/kb/usda#02022,http://idea.rpi.edu/heals/kb/usda#19106,0.6772935,1,1.0,0.0
-1064,259,3476,http://idea.rpi.edu/heals/kb/usda#02022,http://idea.rpi.edu/heals/kb/usda#11736,0.6772935,1,1.0,0.0
-1065,259,6113,http://idea.rpi.edu/heals/kb/usda#02022,http://idea.rpi.edu/heals/kb/usda#18982,0.6772935,1,1.0,0.0
-1066,1224,5070,http://idea.rpi.edu/heals/kb/usda#06043,http://idea.rpi.edu/heals/kb/usda#16335,0.531994,1,1.0,0.0
-1067,1224,6673,http://idea.rpi.edu/heals/kb/usda#06043,http://idea.rpi.edu/heals/kb/usda#2015,0.531994,1,1.0,0.0
-1068,1224,3200,http://idea.rpi.edu/heals/kb/usda#06043,http://idea.rpi.edu/heals/kb/usda#11356,0.531994,1,1.0,0.0
-1069,1224,4829,http://idea.rpi.edu/heals/kb/usda#06043,http://idea.rpi.edu/heals/kb/usda#15261,0.531994,1,1.0,0.0
-1070,1224,4479,http://idea.rpi.edu/heals/kb/usda#06043,http://idea.rpi.edu/heals/kb/usda#14407,0.531994,1,1.0,0.0
-1071,2296,5943,http://idea.rpi.edu/heals/kb/usda#09129,http://idea.rpi.edu/heals/kb/usda#18375,0.531994,1,1.0,0.0
-1072,2296,3337,http://idea.rpi.edu/heals/kb/usda#09129,http://idea.rpi.edu/heals/kb/usda#11523,0.531994,1,1.0,0.0
-1073,2296,2312,http://idea.rpi.edu/heals/kb/usda#09129,http://idea.rpi.edu/heals/kb/usda#09149,0.531994,1,1.0,0.0
-1074,2296,6296,http://idea.rpi.edu/heals/kb/usda#09129,http://idea.rpi.edu/heals/kb/usda#19198,0.531994,1,1.0,0.0
-1075,2296,3989,http://idea.rpi.edu/heals/kb/usda#09129,http://idea.rpi.edu/heals/kb/usda#13377,0.531994,1,1.0,0.0
-1076,2736,4415,http://idea.rpi.edu/heals/kb/usda#10219,http://idea.rpi.edu/heals/kb/usda#14215,0.85351074,1,1.0,0.0
-1077,2736,3362,http://idea.rpi.edu/heals/kb/usda#10219,http://idea.rpi.edu/heals/kb/usda#11569,0.85351074,1,1.0,0.0
-1078,2736,1373,http://idea.rpi.edu/heals/kb/usda#10219,http://idea.rpi.edu/heals/kb/usda#06327,0.85351074,1,1.0,0.0
-1079,2736,1993,http://idea.rpi.edu/heals/kb/usda#10219,http://idea.rpi.edu/heals/kb/usda#08366,0.85351074,1,1.0,0.0
-1080,2736,1803,http://idea.rpi.edu/heals/kb/usda#10219,http://idea.rpi.edu/heals/kb/usda#07950,0.85351074,1,1.0,0.0
-1081,1296,625,http://idea.rpi.edu/heals/kb/usda#06176,http://idea.rpi.edu/heals/kb/usda#04018,0.8424669,1,1.0,0.0
-1082,1296,704,http://idea.rpi.edu/heals/kb/usda#06176,http://idea.rpi.edu/heals/kb/usda#04585,0.018132942,0,1.0,-1.0
-1083,1296,1494,http://idea.rpi.edu/heals/kb/usda#06176,http://idea.rpi.edu/heals/kb/usda#06529,0.8424669,1,1.0,0.0
-1084,1296,1486,http://idea.rpi.edu/heals/kb/usda#06176,http://idea.rpi.edu/heals/kb/usda#06497,0.8424669,1,1.0,0.0
-1085,1296,3427,http://idea.rpi.edu/heals/kb/usda#06176,http://idea.rpi.edu/heals/kb/usda#11669,0.20805274,0,1.0,-1.0
+,Food label,Substitution label
+6526,"BUTTER,WITH SALT","MILK,DRY,NONFAT,REG,WO/ ADDED VIT A & VITAMIN D"
+795,"BUTTER,WITH SALT","YOGURT,FRUIT VAR,NONFAT,FORT W/ VITAMIN D"
+1012,"CHEESE,BLUE","MILK DSSRT BAR,FRZ,MADE FROM LOWFAT MILK"
+1012,"CHEESE,BLUE","MILK DSSRT BAR,FRZ,MADE FROM LOWFAT MILK"
+7747,"CHEESE,CHEDDAR","CHEESE,MUENSTER"
+7555,"CHEESE,CHEDDAR","MILK SHAKES,THICK VANILLA"
+1989,"CHEESE,COLBY","CHEESE,BRICK"
+7699,"CHEESE,COLBY","ICE CRM SNDWCH,VANILLA,LT,NO SUGAR ADDED"
+7722,"CHEESE,CREAM","MILK,WHL,3.25% MILKFAT,W/ ADDED VITAMIN D"
+7722,"CHEESE,CREAM","MILK,WHL,3.25% MILKFAT,W/ ADDED VITAMIN D"
+1902,"CHEESE,FETA","CHEESE,COTTAGE,LOWFAT,1% MILKFAT,LACTOSE RED"
+1902,"CHEESE,FETA","CHEESE,COTTAGE,LOWFAT,1% MILKFAT,LACTOSE RED"
+7570,"CHEESE,FONTINA","YOGURT,CHOC,NONFAT MILK,FORT W/ VITAMIN D"
+2185,"CHEESE,FONTINA",EGGNOG
+2387,"CHEESE,PARMESAN,GRATED","YOGURT,GREEK,NON FAT,STRAWBERRY,CHOBANI"
+2387,"CHEESE,PARMESAN,GRATED","YOGURT,GREEK,NON FAT,STRAWBERRY,CHOBANI"
+2368,"CHEESE,SWISS","YOGURT,PLN,SKIM MILK,13 GRAMS PROT PER 8 OZ"
+2368,"CHEESE,SWISS","YOGURT,PLN,SKIM MILK,13 GRAMS PROT PER 8 OZ"
+1621,"CREAM,FLUID,HVY WHIPPING",KRAFT BREAKSTONE'S RED FAT SOUR CRM
+1621,"CREAM,FLUID,HVY WHIPPING",KRAFT BREAKSTONE'S RED FAT SOUR CRM
+7984,"CREAM,WHIPPED,CRM TOPPING,PRESSURIZED","CREAM,FLUID,LT WHIPPING"
+7984,"CREAM,WHIPPED,CRM TOPPING,PRESSURIZED","CREAM,FLUID,LT WHIPPING"
+1785,"MILK,DRY,WHL,W/ ADDED VITAMIN D","CHEESE,PAST PROCESS,AMERICAN,FORT W/ VITAMIN D"
+7449,"MILK,DRY,WHL,W/ ADDED VITAMIN D","MILK,CND,EVAP,NONFAT,W/ ADDED VIT A & VITAMIN D"
+1660,"MILK,DRY,NONFAT,REG,WO/ ADDED VIT A & VITAMIN D","CHEESE,GOAT,SOFT TYPE"
+1660,"MILK,DRY,NONFAT,REG,WO/ ADDED VIT A & VITAMIN D","CHEESE,GOAT,SOFT TYPE"
+8865,"SAGE,GROUND",CUMIN SEED
+8865,"SAGE,GROUND",CUMIN SEED
+7163,LARD,"SALAD DRSNG,MAYO,LT,SMART BALANCE,OMEGA PLUS LT"
+2924,LARD,"SALAD DRSNG,MAYO TYPE,REG,W/SALT"
+7124,"OIL,OLIVE,SALAD OR COOKING","OIL,COCNT"
+7124,"OIL,OLIVE,SALAD OR COOKING","OIL,COCNT"
+818,"OIL,SESAME,SALAD OR COOKING","SALAD DRSNG,KRAFT MAYO FAT FREE MAYO DRSNG"
+818,"OIL,SESAME,SALAD OR COOKING","SALAD DRSNG,KRAFT MAYO FAT FREE MAYO DRSNG"
+713,"MARGARINE,REG,HARD,SOYBN (HYDR)","OIL,INDUSTRIAL,COCNT,CONFECTION FAT,ICE CRM COATINGS"
+713,"MARGARINE,REG,HARD,SOYBN (HYDR)","OIL,INDUSTRIAL,COCNT,CONFECTION FAT,ICE CRM COATINGS"
+771,"OIL,CORN,INDUSTRIAL & RTL,ALLPURP SALAD OR COOKING","MARGARINE-LIKE,VEG OIL SPRD,FAT FREE,LIQ,W/ SALT"
+771,"OIL,CORN,INDUSTRIAL & RTL,ALLPURP SALAD OR COOKING","MARGARINE-LIKE,VEG OIL SPRD,FAT FREE,LIQ,W/ SALT"
+665,"SHORTENING FRYING (HVY DUTY),PALM (HYDR)","OIL,CUPU ASSU"
+665,"SHORTENING FRYING (HVY DUTY),PALM (HYDR)","OIL,CUPU ASSU"
+594,"OIL,CANOLA","SALAD DRSNG,HONEY MUSTARD DRSNG,RED CAL"
+594,"OIL,CANOLA","SALAD DRSNG,HONEY MUSTARD DRSNG,RED CAL"
+694,"SHORTENING,VEG,HOUSEHOLD,COMP","VEG OIL SPRD,60% FAT,STICK/TUB/BOTTLE,WO/ SALT"
+694,"SHORTENING,VEG,HOUSEHOLD,COMP","VEG OIL SPRD,60% FAT,STICK/TUB/BOTTLE,WO/ SALT"
+5598,"GROUND TURKEY,RAW","DUCK,DOMESTICATED,MEAT ONLY,RAW"
+5598,"GROUND TURKEY,RAW","DUCK,DOMESTICATED,MEAT ONLY,RAW"
+6798,"SOUP,MUSHROOM BARLEY,CND,COND","CAMPBELL'S,CRM OF CHICK SOUP,COND"
+6798,"SOUP,MUSHROOM BARLEY,CND,COND","CAMPBELL'S,CRM OF CHICK SOUP,COND"
+6869,"GRAVY,BROWN,DRY","SOUP,MUSHROOM BARLEY,CND,COND"
+6869,"GRAVY,BROWN,DRY","SOUP,MUSHROOM BARLEY,CND,COND"
+5247,"SAUCE,SALSA,RTS","CAMPBELL'S CHUNKY SOUPS,GRILLED SIRLOIN STEAK HEARTY VEG SP"
+5247,"SAUCE,SALSA,RTS","CAMPBELL'S CHUNKY SOUPS,GRILLED SIRLOIN STEAK HEARTY VEG SP"
+6686,"SOUP,STOCK,BEEF,HOME-PREPARED","SOUP,CRM OF MUSHROOM,LO NA,RTS,CND"
+6686,"SOUP,STOCK,BEEF,HOME-PREPARED","SOUP,CRM OF MUSHROOM,LO NA,RTS,CND"
+576,"SAUCE,TOMATO CHILI SAU,BTLD,W/SALT","PREGO PASTA,CHNKY GRDN TMTO,ON & GRLIC ITAL SAU,RTS"
+576,"SAUCE,TOMATO CHILI SAU,BTLD,W/SALT","PREGO PASTA,CHNKY GRDN TMTO,ON & GRLIC ITAL SAU,RTS"
+9025,"SOUP,BOUILLON CUBES&GRANULES,LO NA,DRY","SOUP,CLAM CHOWDER,NEW ENGLAND,CND,RTS"
+9025,"SOUP,BOUILLON CUBES&GRANULES,LO NA,DRY","SOUP,CLAM CHOWDER,NEW ENGLAND,CND,RTS"
+7794,BLOOD SAUSAGE,"BRATWURST,CHICK,CKD"
+7794,BLOOD SAUSAGE,"BRATWURST,CHICK,CKD"
+6482,"BOLOGNA,PORK",PASTRAMI  BF  98% FAT-FREE
+6482,"BOLOGNA,PORK",PASTRAMI  BF  98% FAT-FREE
+5731,FRANKFURTER  MEAT,"PICNIC LOAF,PORK,BEEF"
+5731,FRANKFURTER  MEAT,"PICNIC LOAF,PORK,BEEF"
+7046,"KIELBASA,FULLY CKD,GRILLED",FRANKFURTER  BF  HTD
+7046,"KIELBASA,FULLY CKD,GRILLED",FRANKFURTER  BF  HTD
+104,"APPLES,CND,SWTND,SLICED,DRND,HTD","ORANGE PEEL,RAW"
+104,"APPLES,CND,SWTND,SLICED,DRND,HTD","ORANGE PEEL,RAW"
+48,"BLACKBERRY JUC,CND","APRICOTS,CND,EX LT SYRUP PK,W/SKN,SOL&LIQUIDS"
+48,"BLACKBERRY JUC,CND","APRICOTS,CND,EX LT SYRUP PK,W/SKN,SOL&LIQUIDS"
+315,"CHERRIES,TART,DRIED,SWTND","PEARS,CND,HVY SYRUP PK,SOL&LIQUIDS"
+7012,"CHERRIES,TART,DRIED,SWTND","APPLES,RAW,RED DELICIOUS,W/ SKN"
+1096,"CURRANTS,ZANTE,DRIED","PEARS,RAW,RED ANJOU"
+1096,"CURRANTS,ZANTE,DRIED","PEARS,RAW,RED ANJOU"
+941,"GRAPE JUC,CND OR BTLD,UNSWTND,W/ ADDED VIT C","PEACH NECTAR,CND,W/ VIT C"
+6925,"GRAPE JUC,CND OR BTLD,UNSWTND,W/ ADDED VIT C","APRICOTS,RAW"
+334,"BLUEBERRIES,DRIED,SWTND","APPLESAUCE,CND,SWTND,W/SALT"
+334,"BLUEBERRIES,DRIED,SWTND","APPLESAUCE,CND,SWTND,W/SALT"
+12,"PAPAYA NECTAR,CANNED","FRUIT COCKTAIL,CND,JUC PK,SOL&LIQUIDS"
+12,"PAPAYA NECTAR,CANNED","FRUIT COCKTAIL,CND,JUC PK,SOL&LIQUIDS"
+3385,"PEACHES,SPICED,CND,HVY SYRUP PK,SOL&LIQUIDS","GUAVA SAUCE,COOKED"
+3409,"PEACHES,SPICED,CND,HVY SYRUP PK,SOL&LIQUIDS","MAMMY-APPLE,(MAMEY),RAW"
+7861,"PEARS,RAW","ABIYUCH,RAW"
+7861,"PEARS,RAW","ABIYUCH,RAW"
+1698,"PINEAPPLE,CND,JUC PK,SOL&LIQUIDS","APPLE JUC,FRZ CONC,UNSWTND,DIL W/3 VOLUME H2O,W/ VIT C"
+1698,"PINEAPPLE,CND,JUC PK,SOL&LIQUIDS","APPLE JUC,FRZ CONC,UNSWTND,DIL W/3 VOLUME H2O,W/ VIT C"
+7248,"RAISINS,SEEDLESS","CHERRIES,SOUR,RED,CND,EX HVY SYRUP PK,SOL&LIQUIDS"
+3455,"RAISINS,SEEDLESS","PRICKLY PEARS,RAW"
+6976,"RAISINS,SEEDED","BLACKBERRIES,RAW"
+6976,"RAISINS,SEEDED","BLACKBERRIES,RAW"
+1704,"STRAWBERRIES,RAW","APRICOTS,DRIED,SULFURED,STWD,W/ SUGAR"
+1704,"STRAWBERRIES,RAW","APRICOTS,DRIED,SULFURED,STWD,W/ SUGAR"
+1705,"BLUEBERRIES,CND,LT SYRUP,DRND","LEMON PEEL,RAW"
+1705,"BLUEBERRIES,CND,LT SYRUP,DRND","LEMON PEEL,RAW"
+8703,"AMARANTH LEAVES,RAW","CORN,SWT,WHITE,CND,WHL KERNEL,DRND SOL"
+4723,"AMARANTH LEAVES,RAW","BEANS,SNAP,GRN,CND,NO SALT,SOL&LIQUIDS"
+5782,"BAMBOO SHOOTS,RAW","MUSTARD GREENS,RAW"
+5782,"BAMBOO SHOOTS,RAW","MUSTARD GREENS,RAW"
+8921,"BEANS,NAVY,MATURE SEEDS,SPROUTED,RAW","POTATOES,BLD,CKD IN SKN,SKN,WO/SALT"
+8921,"BEANS,NAVY,MATURE SEEDS,SPROUTED,RAW","POTATOES,BLD,CKD IN SKN,SKN,WO/SALT"
+8986,"BEANS,SNAP,GREEN,RAW","VEGETABLES,MXD,FRZ,UNPREP"
+8986,"BEANS,SNAP,GREEN,RAW","VEGETABLES,MXD,FRZ,UNPREP"
+4794,"BEET GREENS,RAW","ARTICHOKES,(GLOBE OR FRENCH),RAW"
+4794,"BEET GREENS,RAW","ARTICHOKES,(GLOBE OR FRENCH),RAW"
+1454,"BROCCOLI,RAW","BEANS,SNAP,YEL,FRZ,CKD,BLD,DRND,WO/SALT"
+7589,"BROCCOLI,RAW","DRUMSTICK LEAVES,RAW"
+2030,"CABBAGE,RED,RAW","COWPEAS,LEAFY TIPS,RAW"
+2033,"CABBAGE,RED,RAW","COWPEAS (BLACKEYES),IMMAT SEEDS,FRZ,CKD,BLD,DRND,W/ SALT"
+7438,"CABBAGE,CHINESE (PAK-CHOI),RAW","POTATOES,CND,DRND SOL,NO SALT"
+1477,"CABBAGE,CHINESE (PAK-CHOI),RAW","LIMA BNS,IMMAT SEEDS,CKD,BLD,DRND,W/SALT"
+5132,"CASSAVA,RAW","LETTUCE,GRN LEAF,RAW"
+5132,"CASSAVA,RAW","LETTUCE,GRN LEAF,RAW"
+8952,"CELERY,RAW","ENDIVE,RAW"
+8952,"CELERY,RAW","ENDIVE,RAW"
+4904,"CHARD,SWISS,RAW","MALABAR SPINACH,COOKED"
+4731,"CHARD,SWISS,RAW","CAULIFLOWER,GRN,CKD,NO SALT ADDED"
+5384,"CHAYOTE,FRUIT,RAW","CAULIFLOWER,GRN,CKD,NO SALT ADDED"
+5384,"CHAYOTE,FRUIT,RAW","CAULIFLOWER,GRN,CKD,NO SALT ADDED"
+2620,"CHIVES,RAW","SEAWEED,AGAR,DRIED"
+8401,"CHIVES,RAW","BRUSSELS SPROUTS,RAW"
+2793,"CRESS,GARDEN,RAW","CORN,SWT,YEL,FRZ,KRNLS CUT OFF COB,UNPREP"
+2793,"CRESS,GARDEN,RAW","CORN,SWT,YEL,FRZ,KRNLS CUT OFF COB,UNPREP"
+8798,"EGGPLANT,RAW","FENNEL,BULB,RAW"
+8798,"EGGPLANT,RAW","FENNEL,BULB,RAW"
+4999,"ENDIVE,RAW","PEAS,GRN,CKD,BLD,DRND,W/SALT"
+4999,"ENDIVE,RAW","PEAS,GRN,CKD,BLD,DRND,W/SALT"
+8526,"LETTUCE,BUTTERHEAD (INCL BOSTON&BIBB TYPES),RAW","POTATOES,MICROWAVED,CKD IN SKN,SKN,WO/SALT"
+8526,"LETTUCE,BUTTERHEAD (INCL BOSTON&BIBB TYPES),RAW","POTATOES,MICROWAVED,CKD IN SKN,SKN,WO/SALT"
+2565,"ONIONS,RAW","CAULIFLOWER,FRZ,CKD,BLD,DRND,W/SALT"
+2609,"ONIONS,RAW","COLLARDS,FRZ,CHOPD,UNPREP"
+2549,"ONIONS,SPRING OR SCALLIONS (INCL TOPS&BULB),RAW","OKRA,CKD,BLD,DRND,WO/SALT"
+7769,"ONIONS,SPRING OR SCALLIONS (INCL TOPS&BULB),RAW","PEPPERS,SERRANO,RAW"
+2586,"ONIONS,YOUNG GRN,TOPS ONLY","BEANS,SNAP,YEL,CKD,BLD,DRND,WO/SALT"
+2586,"ONIONS,YOUNG GRN,TOPS ONLY","BEANS,SNAP,YEL,CKD,BLD,DRND,WO/SALT"
+2646,"ONIONS,SWT,RAW","CORIANDER (CILANTRO) LEAVES,RAW"
+2646,"ONIONS,SWT,RAW","CORIANDER (CILANTRO) LEAVES,RAW"
+1308,"PEPPERS,SWT,GRN,RAW","SQUASH,WNTR,SPAGHETTI,CKD,BLD,DRND,OR BKD,WO/SALT"
+1308,"PEPPERS,SWT,GRN,RAW","SQUASH,WNTR,SPAGHETTI,CKD,BLD,DRND,OR BKD,WO/SALT"
+8372,POTATO FLOUR,"TARO LEAVES,RAW"
+8372,POTATO FLOUR,"TARO LEAVES,RAW"
+3498,"SEAWEED,AGAR,RAW","BEANS,SHELLIE,CND,SOL & LIQUIDS"
+3498,"SEAWEED,AGAR,RAW","BEANS,SHELLIE,CND,SOL & LIQUIDS"
+3465,"SEAWEED,KELP,RAW","SALSIFY,CKD,BLD,DRND,W/SALT"
+3465,"SEAWEED,KELP,RAW","SALSIFY,CKD,BLD,DRND,W/SALT"
+8570,"SPINACH,RAW","ENDIVE,RAW"
+8570,"SPINACH,RAW","ENDIVE,RAW"
+4559,"SWEET POTATO LEAVES,RAW","LAMBSQUARTERS,RAW"
+4559,"SWEET POTATO LEAVES,RAW","LAMBSQUARTERS,RAW"
+3443,"TOMATOES,GREEN,RAW","BALSAM-PEAR (BITTER GOURD),PODS,RAW"
+3443,"TOMATOES,GREEN,RAW","BALSAM-PEAR (BITTER GOURD),PODS,RAW"
+8040,"TOMATO JUC,CND,W/SALT","DOCK,CKD,BLD,DRND,WO/SALT"
+8040,"TOMATO JUC,CND,W/SALT","DOCK,CKD,BLD,DRND,WO/SALT"
+1428,"TURNIPS,RAW","CELERY,RAW"
+1428,"TURNIPS,RAW","CELERY,RAW"
+5753,"WATERCRESS,RAW","LETTUCE,GRN LEAF,RAW"
+3436,"WATERCRESS,RAW","SALSIFY,(VEG OYSTER),RAW"
+5079,"YAM,RAW","EGGPLANT,RAW"
+5079,"YAM,RAW","EGGPLANT,RAW"
+8593,"BORAGE,RAW","PEAS,GRN,FRZ,CKD,BLD,DRND,WO/SALT"
+5392,"BORAGE,RAW","LIMA BNS,IMMAT SEEDS,FRZ,BABY,CKD,BLD,DRND,WO/SALT"
+2556,"SHALLOTS,FREEZE-DRIED","CORN,SWT,YEL,CND,CRM STYLE,REG PK"
+2592,"SHALLOTS,FREEZE-DRIED","COWPEAS,LEAFY TIPS,CKD,BLD,DRND,WO/SALT"
+3889,"RADISH SEEDS,SPROUTED,RAW","JUTE,POTHERB,CKD,BLD,DRND,W/SALT"
+3889,"RADISH SEEDS,SPROUTED,RAW","JUTE,POTHERB,CKD,BLD,DRND,W/SALT"
+8008,"PEPPERS,SWT,RED,RAW","CORN,SWT,YEL,FRZ,KRNLS ON COB,UNPREP"
+8008,"PEPPERS,SWT,RED,RAW","CORN,SWT,YEL,FRZ,KRNLS ON COB,UNPREP"
+7081,Catsup,"HYACINTH-BEANS,IMMAT SEEDS,CKD,BLD,DRND,W/SALT"
+7082,Catsup,"POTATOES,HASH BROWN,FRZ,PLN,PREP,PAN FRIED IN CANOLA OIL"
+568,"TOMATOES,SUN-DRIED","SWEET POTATO,RAW,UNPREP"
+568,"TOMATOES,SUN-DRIED","SWEET POTATO,RAW,UNPREP"
+1354,ALMONDS,"CHIA SEEDS,DRIED"
+1354,ALMONDS,"CHIA SEEDS,DRIED"
+3147,"COCONUT CRM,RAW (LIQ EXPRESSED FROM GRATED MEAT)","SEEDS,BREADNUT TREE SEEDS,RAW"
+3147,"COCONUT CRM,RAW (LIQ EXPRESSED FROM GRATED MEAT)","SEEDS,BREADNUT TREE SEEDS,RAW"
+1215,PECANS,"PISTACHIO NUTS,RAW"
+1215,PECANS,"PISTACHIO NUTS,RAW"
+8770,"BEEF,GRASS-FED,GROUND,RAW","BEEF,CHUCK,ARM POT RST,LN,1/8"" FAT,ALL GRDS,CKD,BRSD"
+5495,"BEEF,GRASS-FED,GROUND,RAW","BEEF,ASTRLN,GRSSFD,LN,TPSRLN CAPOFF STK/RST,BNLS,LN & FT,RAW"
+6668,"BEEF,FLANK,STEAK,LN & FAT,0"" FAT,CHOIC,RAW","BEEF,RND,TOP RND RST,BNLESS,LN,0"" FAT,CHOIC,CKD,RSTD"
+6668,"BEEF,FLANK,STEAK,LN & FAT,0"" FAT,CHOIC,RAW","BEEF,RND,TOP RND RST,BNLESS,LN,0"" FAT,CHOIC,CKD,RSTD"
+8765,"BEEF,SHRT LOIN,PRTRHS STEAK,LN,1/8"" FAT,CHOIC,RAW","BEEF,RND,TOP RND RST,BNLESS,LN,0"" FAT,SEL,CKD,RSTD"
+8765,"BEEF,SHRT LOIN,PRTRHS STEAK,LN,1/8"" FAT,CHOIC,RAW","BEEF,RND,TOP RND RST,BNLESS,LN,0"" FAT,SEL,CKD,RSTD"
+6784,"BEEF,CHUCK,UND BL POT RST,BNLESS,LN,0"" FAT,ALL GRDS,CKD","BEEF,VAR MEATS & BY-PRODUCTS,LIVER,CKD,BRSD"
+6784,"BEEF,CHUCK,UND BL POT RST,BNLESS,LN,0"" FAT,ALL GRDS,CKD","BEEF,VAR MEATS & BY-PRODUCTS,LIVER,CKD,BRSD"
+6591,"BEEF,RND,BTTM RND,STEAK,LN & FAT,0"" FAT,ALL GRDS,CKD,BRSD","BEEF,RND,TOP RND,STEAK,LN & FAT,1/8"" FAT,SEL,RAW"
+6591,"BEEF,RND,BTTM RND,STEAK,LN & FAT,0"" FAT,ALL GRDS,CKD,BRSD","BEEF,RND,TOP RND,STEAK,LN & FAT,1/8"" FAT,SEL,RAW"
+5614,"BEEF,RND,TOP RND,LN&FAT,0""FAT,ALL GRDS,CKD,BRSD","BEEF,RND,TOP RND RST,BNLESS,LN & FAT,0"" FAT,CHOIC,RAW"
+5614,"BEEF,RND,TOP RND,LN&FAT,0""FAT,ALL GRDS,CKD,BRSD","BEEF,RND,TOP RND RST,BNLESS,LN & FAT,0"" FAT,CHOIC,RAW"
+8293,"BASS,STRIPED,RAW","TUNA,FRESH,SKIPJACK,RAW"
+8293,"BASS,STRIPED,RAW","TUNA,FRESH,SKIPJACK,RAW"
+8731,"CATFISH,CHANNEL,WILD,RAW","DOLPHINFISH,RAW"
+8731,"CATFISH,CHANNEL,WILD,RAW","DOLPHINFISH,RAW"
+5435,"HADDOCK,RAW","PIKE,NORTHERN,RAW"
+5435,"HADDOCK,RAW","PIKE,NORTHERN,RAW"
+8750,"LINGCOD,RAW","PERCH,MIXED SPECIES,RAW"
+4219,"LINGCOD,RAW","TUNA,SKIPJACK,FRSH,CKD,DRY HEAT"
+4097,"SWORDFISH,RAW","OYSTER,EASTERN,FARMED,CKD,DRY HEAT"
+4097,"SWORDFISH,RAW","OYSTER,EASTERN,FARMED,CKD,DRY HEAT"
+5575,"TROUT,RAINBOW,WILD,RAW","TILEFISH,COOKED,DRY HEAT"
+5575,"TROUT,RAINBOW,WILD,RAW","TILEFISH,COOKED,DRY HEAT"
+505,"CHICKPEAS (GARBANZO BNS,BENGAL GM),MATURE SEEDS,RAW","BEANS,MATURE,RED KIDNEY,CND,SOL & LIQ,LO NA"
+505,"CHICKPEAS (GARBANZO BNS,BENGAL GM),MATURE SEEDS,RAW","BEANS,MATURE,RED KIDNEY,CND,SOL & LIQ,LO NA"
+6105,"MOTHBEANS,MATURE SEEDS,RAW","SOYBEANS,MATURE SEEDS,RSTED,NO SALT ADDED"
+6105,"MOTHBEANS,MATURE SEEDS,RAW","SOYBEANS,MATURE SEEDS,RSTED,NO SALT ADDED"
+1248,"PEANUTS,SPANISH,RAW","BEANS,PINTO,CND,DRND SOL"
+1248,"PEANUTS,SPANISH,RAW","BEANS,PINTO,CND,DRND SOL"
+5365,SOY SAU MADE FROM SOY (TAMARI),"BEANS,KIDNEY,ROYAL RED,MATURE SEEDS,RAW"
+5365,SOY SAU MADE FROM SOY (TAMARI),"BEANS,KIDNEY,ROYAL RED,MATURE SEEDS,RAW"
+5402,"FALAFEL,HOME-PREPARED","LOMA LINDA LINKETTS,CND,UNPREP"
+5402,"FALAFEL,HOME-PREPARED","LOMA LINDA LINKETTS,CND,UNPREP"
+5656,"LAMB,DOM,LEG,WHL (SHK&SIRL),LN&FAT,1/4""FAT,CHOIC,RAW","LAMB,AUS,IMP,FRSH,LEG,SHANK HALF,LN,1/8""FAT,CKD,RSTD"
+5656,"LAMB,DOM,LEG,WHL (SHK&SIRL),LN&FAT,1/4""FAT,CHOIC,RAW","LAMB,AUS,IMP,FRSH,LEG,SHANK HALF,LN,1/8""FAT,CKD,RSTD"
+4037,"BARLEY,HULLED","WHEAT BRAN,CRUDE"
+4037,"BARLEY,HULLED","WHEAT BRAN,CRUDE"
+4666,"RICE,BROWN,LONG-GRAIN,RAW","WHEAT FLR,WHITE (INDUSTRIAL),10% PROT,UNBLEACHED,ENR"
+4666,"RICE,BROWN,LONG-GRAIN,RAW","WHEAT FLR,WHITE (INDUSTRIAL),10% PROT,UNBLEACHED,ENR"
+4402,"RICE FLOUR,WHITE","BULGUR,COOKED"
+4402,"RICE FLOUR,WHITE","BULGUR,COOKED"
+3751,"WHEAT,DURUM","WHEAT,SOFT RED WINTER"
+3727,"WHEAT,DURUM",BARLEY FLOUR OR MEAL
+8145,"WHEAT FLR,WHITE,BREAD,ENR","SORGHUM FLR,WHOLE-GRAIN"
+8145,"WHEAT FLR,WHITE,BREAD,ENR","SORGHUM FLR,WHOLE-GRAIN"
+4612,"WHEAT FLR,WHITE,CAKE,ENR","SPAGHETTI,SPINACH,DRY"
+4612,"WHEAT FLR,WHITE,CAKE,ENR","SPAGHETTI,SPINACH,DRY"
