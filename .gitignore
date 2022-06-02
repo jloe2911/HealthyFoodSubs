@@ -2,5 +2,9 @@ Input Data/statements.nq
 Input Data/data
 Input Data/Dataset_2_annotate_Alie.xlsx
 Input Data/Dataset_2_annotate_Ilse.xlsx
-Output/k_fold_kg
-Output/k_fold_usda
+Notebook/k_fold_model.ipynb
+Notebook/k_fold_eval.ipynb
+Output/k_fold_5_kg
+Output/k_fold_5_usda
+Output/k_fold_10_kg
+Output/k_fold_10_usda
