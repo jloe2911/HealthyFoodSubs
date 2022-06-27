@@ -4,7 +4,12 @@ Input Data/Dataset_2_annotate_Alie.xlsx
 Input Data/Dataset_2_annotate_Ilse.xlsx
 Notebook/k_fold_model.ipynb
 Notebook/k_fold_eval.ipynb
+Notebook/ErrorAnalysis.ipynb
+Notebook/PlotFoodCat.ipynb
 Output/k_fold_5_kg
 Output/k_fold_5_usda
 Output/k_fold_10_kg
 Output/k_fold_10_usda
+Output/new_links_after_shuffle_labelled.csv
+Output/new_links_after_shuffle.csv
+Output/new_links_before_shuffle.csv
