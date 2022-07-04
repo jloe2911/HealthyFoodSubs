@@ -1,7 +1,5 @@
 Input Data/statements.nq
 Input Data/data
-Input Data/Dataset_2_annotate_Alie.xlsx
-Input Data/Dataset_2_annotate_Ilse.xlsx
 Notebook/k_fold_model.ipynb
 Notebook/k_fold_eval.ipynb
 Notebook/ErrorAnalysis.ipynb
