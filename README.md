@@ -4,11 +4,11 @@ As the incidence of chronic diseases increases, and with an unhealthy diet being
 
 ### Setup
 
-The Knowledge Graph of Food can be downloaded [here](https://drive.google.com/drive/folders/1p3L-lBbx_2cBbjTBXimfR3DntmZ8AEpS?usp=share_link). 
+The Knowledge Graph of Food can be downloaded [here](https://drive.google.com/drive/folders/1p3L-lBbx_2cBbjTBXimfR3DntmZ8AEpS?usp=share_link) and should be added to ```Input Data```
 
 ### Quick Tour
 
-- ```1_Prep_Data.ipynb```: takes as input the Knowledge Graph of Food and outputs Node and Edge dataframes. 
-- ```2_Model.ipynb```: takes as input the Node and Edge dataframes, applies Graph Neural Networks and outputs new node representations/Food Embeddings. 
-- ```3_Evaluate_Model.ipynb```: takes as input the Food Embeddings and evaluates the models by computing Mean Average Precision, Mean Reciprocal Rank and Recall Rate at 5 and 10. 
-- ```4_Pred_New_Links.ipynb```: takes as input the Food Embeddings and predicts new "isSubstitutedBy"-links between food-food pairs.
+- ```Notebook/1_Prep_Data.ipynb```: takes as input the Knowledge Graph of Food and outputs Node and Edge dataframes.
+- ```Notebook/2_Model.ipynb```: takes as input the Node and Edge dataframes, applies Graph Neural Networks and outputs new node representations/Food Embeddings.
+- ```Notebook/3_Evaluate_Model.ipynb```: takes as input the Food Embeddings and evaluates the models by computing Mean Average Precision, Mean Reciprocal Rank and Recall Rate at 5 and 10.
+- ```Notebook/4_Pred_New_Links.ipynb```: takes as input the Food Embeddings and predicts new "isSubstitutedBy"-links between food-food pairs.
