@@ -4,7 +4,7 @@ As the incidence of chronic diseases increases, and with an unhealthy diet being
 
 ### Setup
 
-The Knowledge Graph of Food can be downloaded [here](https://drive.google.com/drive/folders/1p3L-lBbx_2cBbjTBXimfR3DntmZ8AEpS?usp=share_link) and should be added to ```Input Data```
+The Knowledge Graph of Food can be downloaded [here](https://drive.google.com/drive/folders/1p3L-lBbx_2cBbjTBXimfR3DntmZ8AEpS?usp=share_link) and should be added to ```Input Data```.
 
 ### Quick Tour
 
